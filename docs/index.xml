@@ -6,8 +6,22 @@
     <description>Recent content in SuperCollider Symposium 2025: The Future of SuperCollider on The Future of SuperCollider</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2025 21:30:10 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 11:15:55 -0500</lastBuildDate>
     <atom:link href="https://supercollider-2025.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>https://supercollider-2025.github.io/resources/</link>
+      <pubDate>Sat, 25 Jan 2025 11:15:55 -0500</pubDate>
+      <guid>https://supercollider-2025.github.io/resources/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;Paper templates&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Streaming</title>
+      <link>https://supercollider-2025.github.io/streaming/</link>
+      <pubDate>Sat, 25 Jan 2025 10:53:10 -0500</pubDate>
+      <guid>https://supercollider-2025.github.io/streaming/</guid>
+      <description>&lt;p&gt;coming soon&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Registration</title>
       <link>https://supercollider-2025.github.io/registration/</link>
@@ -27,14 +41,14 @@
       <link>https://supercollider-2025.github.io/keynote-speakers/</link>
       <pubDate>Fri, 24 Jan 2025 21:29:54 -0500</pubDate>
       <guid>https://supercollider-2025.github.io/keynote-speakers/</guid>
-      <description>&lt;h1 id=&#34;james-mccartney&#34;&gt;James McCartney&lt;/h1&gt;&#xA;&lt;p&gt;James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;james-mccartney&#34;&gt;James McCartney&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Thursday, March 13, 2025 • 9am&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schedule</title>
       <link>https://supercollider-2025.github.io/schedule/</link>
       <pubDate>Fri, 24 Jan 2025 21:01:50 -0500</pubDate>
       <guid>https://supercollider-2025.github.io/schedule/</guid>
-      <description></description>
+      <description>&lt;p&gt;coming soon&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
