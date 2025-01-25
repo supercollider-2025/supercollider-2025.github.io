@@ -1,5 +1,28 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://supercollider-2025.github.io/'
 languageCode = 'en-us'
 title = 'The Future of SuperCollider'
 theme = 'ananke'
 publishDir = "docs"
+
+[params]
+site_logo = 'img/sc_cube_48x48.png'
+    [params.ananke]
+        show_recent_posts = false
+
+[menu]
+[[menu.main]]
+  name = 'Keynote Speakers'
+  weight = 1
+  url = '/keynote-speakers/'
+[[menu.main]]
+  name = 'Schedule'
+  weight = 2
+  url = '/schedule/'
+[[menu.main]]
+  name = 'Location'
+  weight = 2
+  url = '/location/'
+[[menu.main]]
+  name = 'Registration'
+  weight = 2
+  url = '/registration/'

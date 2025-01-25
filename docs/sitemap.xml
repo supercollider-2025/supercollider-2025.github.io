@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-24T21:46:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/registration/</loc>
+    <lastmod>2025-01-24T21:30:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/location/</loc>
+    <lastmod>2025-01-24T21:30:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/keynote-speakers/</loc>
+    <lastmod>2025-01-24T21:29:54-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/schedule/</loc>
     <lastmod>2025-01-24T21:01:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
