@@ -4,4 +4,4 @@ draft = false
 title = 'Resources'
 +++
 
-[Paper templates]()
+[Paper templates](https://github.com/supercollider-2025/supercollider-2025.github.io/raw/refs/heads/main/paper-templates/SC_2025_Paper_Templates.zip)
