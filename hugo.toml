@@ -5,7 +5,7 @@ theme = 'ananke'
 publishDir = "docs"
 
 [params]
-site_logo = 'img/sc_cube_48x48.png'
+site_logo = 'img/sc_cube_48x48_25.png'
     [params.ananke]
         show_recent_posts = false
 

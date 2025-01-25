@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://supercollider-2025.github.io/resources/</loc>
+    <loc>http://localhost:1313/resources/</loc>
     <lastmod>2025-01-25T11:15:55-05:00</lastmod>
   </url><url>
-    <loc>https://supercollider-2025.github.io/streaming/</loc>
+    <loc>http://localhost:1313/streaming/</loc>
     <lastmod>2025-01-25T10:53:10-05:00</lastmod>
   </url><url>
-    <loc>https://supercollider-2025.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-24T21:46:23-05:00</lastmod>
   </url><url>
-    <loc>https://supercollider-2025.github.io/registration/</loc>
+    <loc>http://localhost:1313/registration/</loc>
     <lastmod>2025-01-24T21:30:10-05:00</lastmod>
   </url><url>
-    <loc>https://supercollider-2025.github.io/location/</loc>
+    <loc>http://localhost:1313/location/</loc>
     <lastmod>2025-01-24T21:30:04-05:00</lastmod>
   </url><url>
-    <loc>https://supercollider-2025.github.io/keynote-speakers/</loc>
+    <loc>http://localhost:1313/keynote-speakers/</loc>
     <lastmod>2025-01-24T21:29:54-05:00</lastmod>
   </url><url>
-    <loc>https://supercollider-2025.github.io/schedule/</loc>
+    <loc>http://localhost:1313/schedule/</loc>
     <lastmod>2025-01-24T21:01:50-05:00</lastmod>
   </url><url>
-    <loc>https://supercollider-2025.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://supercollider-2025.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
