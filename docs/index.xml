@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SuperCollider Symposium 2025: The Future of SuperCollider on The Future of SuperCollider</title>
-    <link>http://localhost:1313/</link>
+    <link>https://supercollider-2025.github.io/</link>
     <description>Recent content in SuperCollider Symposium 2025: The Future of SuperCollider on The Future of SuperCollider</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jan 2025 21:30:10 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://supercollider-2025.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Registration</title>
-      <link>http://localhost:1313/registration/</link>
+      <link>https://supercollider-2025.github.io/registration/</link>
       <pubDate>Fri, 24 Jan 2025 21:30:10 -0500</pubDate>
-      <guid>http://localhost:1313/registration/</guid>
+      <guid>https://supercollider-2025.github.io/registration/</guid>
       <description>&lt;p&gt;If you are presenting at the conference, you&amp;rsquo;re already registered!&lt;br&gt;&#xA;If you are not presenting, but would like to attend, please register &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSerj_sYWaG2_wJbAOmT3gYSh3bhpnoTke1CmKYyMEeyKc-Y_A/viewform?usp=dialog&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/location/</link>
+      <link>https://supercollider-2025.github.io/location/</link>
       <pubDate>Fri, 24 Jan 2025 21:30:04 -0500</pubDate>
-      <guid>http://localhost:1313/location/</guid>
+      <guid>https://supercollider-2025.github.io/location/</guid>
       <description>&lt;p&gt;All conference events will take place at the Johns Hopkins University &lt;a href=&#34;https://washingtondc.jhu.edu/about/our-building/&#34;&gt;Bloomberg Center&lt;/a&gt; located at:&lt;/p&gt;&#xA;&lt;p&gt;555 Pennsylvania Avenue NW&lt;br&gt;&#xA;Washington D.C. 20001 USA&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/place/555+Pennsylvania+Avenue+NW,+Washington,+DC+20001/@38.8931875,-77.0220868,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b778be2c23ad:0xa8685e201a0cd4e0!8m2!3d38.8931875!4d-77.0195119!16s%2Fg%2F11vz3lcgkv?entry=ttu&amp;amp;g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D&#34;&gt;Google Maps&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://washingtondc.jhu.edu/about/maps-directions/&#34;&gt;Information for arrival by metro, bus, train, or plane&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keynote Speakers</title>
-      <link>http://localhost:1313/keynote-speakers/</link>
+      <link>https://supercollider-2025.github.io/keynote-speakers/</link>
       <pubDate>Fri, 24 Jan 2025 21:29:54 -0500</pubDate>
-      <guid>http://localhost:1313/keynote-speakers/</guid>
+      <guid>https://supercollider-2025.github.io/keynote-speakers/</guid>
       <description>&lt;h1 id=&#34;james-mccartney&#34;&gt;James McCartney&lt;/h1&gt;&#xA;&lt;p&gt;James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schedule</title>
-      <link>http://localhost:1313/schedule/</link>
+      <link>https://supercollider-2025.github.io/schedule/</link>
       <pubDate>Fri, 24 Jan 2025 21:01:50 -0500</pubDate>
-      <guid>http://localhost:1313/schedule/</guid>
+      <guid>https://supercollider-2025.github.io/schedule/</guid>
       <description></description>
     </item>
   </channel>
