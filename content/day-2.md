@@ -8,6 +8,7 @@ title = 'Day 2'
 **Friday, March 14, 2025**
 
 
+---
 ## Coffee  
 8:30am - 9am  
 TBD
@@ -22,29 +23,33 @@ Lucile Nihlen has worked as a professional software developer for over 25 years,
 ---
 ## Paper Session 3  
 10:20am - 11:40am  
-TBD
+TBD  
+[go to abstracts](/paper-session-3/)
 
-**Paper Title**  
+**The code as the expression of its own vitalism**  
 &emsp;&emsp;*Luis Alfonso Tamagnini*  
 &emsp;&emsp;10:20am
 
-**Paper Title**  
+**The New Pulsar Generator (nuPG)**  
 &emsp;&emsp;*Marcin Pietruszewski*  
 &emsp;&emsp;10:40am
 
-**Paper Title**  
+**Live-Coding and AI Assistance for Dynamic Musical Instrument Design in SuperCollider**  
 &emsp;&emsp;*Steph OHara*  
 &emsp;&emsp;11am
 
-**Paper Title**  
+**Expanding the landscape of SC through multimodal art**  
 &emsp;&emsp;*Joel Ong*  
 &emsp;&emsp;11:20am
 
 
 ---
 ## Concert 3  
+
 1pm  
-TBD
+TBD  
+[go to program](/concert-3)
+
 
 
 **Improvisation using *Lossy Codecs*** directed by Derek Worthington  
@@ -84,13 +89,13 @@ TBD
 *Both workshops are one hour and occur simultaneously.*
 
 
-### Title of the workshop
+### TODO
 
 *Led by Alberto de Campo & Bruno Gola*  
 TBD  
 
 
-### Title of the workshop
+### TODO
 
 *Led by Joséphine Oberholtzer*  
 TBD  
@@ -111,11 +116,14 @@ TBD
 
 ---
 ## Concert 4  
+
 7:30pm  
-TBD
+TBD  
+[go to program](/concert-4)
 
 
-***Sigil II: Amistad*** by Monty Taylor  
+
+***Sigil II: Amistad*** by Monte Taylor  
 &emsp;&emsp;*Doug O'Connor, saxophone*  
 
 

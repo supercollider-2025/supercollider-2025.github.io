@@ -8,6 +8,7 @@ title = 'Day 3'
 **Saturday, March 15, 2025**
 
 
+---
 ## Coffee  
 8:30am - 9am  
 TBD
@@ -22,29 +23,33 @@ Christof Ressi is an Austrian composer, arranger, media artist and software deve
 ---
 ## Paper Session 4  
 10:20am - 11:40am  
-TBD
+TBD  
+[go to abstracts](/paper-session-4/)
 
-**Paper Title**  
+**ARCube**  
 &emsp;&emsp;*Hyunkyung Shin*  
 &emsp;&emsp;10:20am
 
-**Paper Title**  
+**Performing and Sharing Laptop Ensemble Repertoire**  
 &emsp;&emsp;*Joo Won Park*  
 &emsp;&emsp;10:40am
 
-**Paper Title**  
+**Declarative SuperCollider**  
 &emsp;&emsp;*Scott Carver*  
 &emsp;&emsp;11am
 
-**Paper Title**  
+**Stecker**  
 &emsp;&emsp;*Dennis Scheiba*  
 &emsp;&emsp;11:20am
 
 
 ---
 ## Concert 5  
+
 1pm  
-TBD
+TBD  
+[go to program](/concert-5)
+
 
 
 ***The Absolute Relativity*** by Alberto de Campo & Bruno Gola  
@@ -66,21 +71,61 @@ TBD
 ---
 ## Paper Session 5  
 3pm - 4:20pm  
-TBD
+TBD  
+[go to abstracts](/paper-session-5/)
 
-**Paper Title**  
+**THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)**  
 &emsp;&emsp;*Alfonso Fellipe Romagna*  
 &emsp;&emsp;3pm
 
-**Paper Title**  
+**Block SuperCollider**  
 &emsp;&emsp;*Rohan Drape*  
 &emsp;&emsp;3:20pm
 
-**Paper Title**  
+**ChessSynth**  
 &emsp;&emsp;*Victor Zheng*  
 &emsp;&emsp;3:40pm
 
-**Paper Title**  
+**Polytempic Music with SuperCollider**  
 &emsp;&emsp;*Derek Worthington*  
 &emsp;&emsp;4pm
+
+
+---
+## Roundtable Discussion: "The Future of SuperCollider"  
+4:30pm - 5:30pm  
+TBD
+
+---
+## Banquet Dinner  
+5:45pm - 7:15pm  
+TBD
+
+---
+## Concert 6  
+
+7:30pm  
+TBD  
+[go to program](/concert-6)
+
+
+
+**Improvisation** by Sam Pluta and Bonnie Lander  
+&emsp;&emsp;*Sam Pluta, electronics*  
+&emsp;&emsp;*Bonnie Lander, voice*  
+
+
+
+***Live for Life*** by Christophe Lengelé  
+&emsp;&emsp;*Christophe Lengelé, electronics*  
+
+
+
+**Live Coding Performance** by Eli Fieldsteel  
+&emsp;&emsp;*Eli Fieldsteel, electronics*  
+
+
+
+***Microwebs*** by Bruno Gola  
+&emsp;&emsp;*Bruno Gola, electronics*  
 

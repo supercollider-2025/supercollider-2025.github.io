@@ -1,0 +1,101 @@
+
++++
+date = '2025-01-24T21:30:10-05:00'
+draft = false
+title = 'Concert 2'
++++
+
+Thursday, March 13, 2025  
+7:30pm  
+TBD
+
+
+***Thormulator*** by Thor Madsen  
+&emsp;&emsp;*Thor Madsen, Thormulator*  
+
+
+
+***T-Stick*** by Gaël Moriceau  
+&emsp;&emsp;*Gaël Moriceau, T-Stick*  
+
+
+
+***Infinite Movement*** by Dennis Scheiba  
+&emsp;&emsp;*fixed media*  
+
+
+
+***Improvisation*** by Matt Wellins  
+&emsp;&emsp;*Matt Wellins, electronics*  
+&emsp;&emsp;*???*  
+
+
+
+***Rock Music*** by Kyle Shaw  
+&emsp;&emsp;*fixed media*  
+
+
+
+***Improvisation*** by James Annett  
+&emsp;&emsp;*James Annett, electronics*  
+
+---
+
+## Program Notes
+
+### *Thormulator*
+
+by [Thor Madsen](/bios/#thor-madsen)
+
+Program Note Needed
+
+### *T-Stick*
+
+by [Gaël Moriceau](/bios/#gaël-moriceau)
+
+This performance, for T-Stick and FM synthesis, offers an immersion into a synthetic soundscape inspired by the calm moments and storms of nature. The sound textures, in constant metamorphosis, evolve from delicate layers to gusty winds, providing a dynamic and immersive auditory experience.
+
+### *Infinite Movement*
+
+by [Dennis Scheiba](/bios/#dennis-scheiba)
+
+Sound as movement in space is immanent, just as the movement of change is immanent in our society.
+
+A sonic equivalent of a social movement of eternal growth and optimization can be seen in the Shepard sound: an acoustic illusion that suggests an eternally rising tone.
+
+This sound moves from the back of the past into the auditorium, where this acoustic illusion is deconstructed and takes over the space - one is in the center of the movement and perceives the breaking apart of the illusion through squeaking, suspension, stretching and compression of the sound.
+
+After a while, the curtain of a Shepard sound appears again, pulling further forward, whereby the sound has now taken on a downward movement that pulls you forward into itself.
+
+In the end, the question remains as to what effect and possibilities an illusion creates that enters the space of tension between consciousness and perception, reflecting on the illusion of psychoacoustics.
+
+The spatialization of Infinite movement is not to be understood as a mere effect of a spatial positioning of sounds, but interweaves with the narrative perspective of past, present and future, growth and decline.
+
+The composition does not follow the classic spatialization technique, which suggests a reference point in a sweet spot where the localization of sounds works best.
+
+Instead, all listeners are in the same situation in the same space - from back to front, from top to bottom, from quiet to loud - and thus form an acoustic community.
+
+Infinite Movement won the Sound Cinema 2024 competition in the free category.
+
+### *Improvisation*
+
+by [Matt Wellins](/bios/#matt-wellins)
+
+Program Note Needed
+
+### *Rock Music*
+
+by [Kyle Shaw](/bios/#kyle-shaw)
+
+*Rock Music* is an 8-channel fixed-media composition. Supercollider provided all of the DSP needs for this piece -- granular synthesis UGens, resonant filter UGens, FFT UGens, wavetable synthesis, on top of writing my own functions to compose the piece's gestures and writing my own reverb SynthDef.
+
+### *Improvisation*
+
+by [James Annett](/bios/#james-annett)
+
+I started using SuperCollider during the pandemic initially as a way to explore compositional structures using computers. This eventually led me to develop a performance practice of improvising in real-time with my software. I use a combination of methods including generative, aleatory, loop-based, gestural control, live coding, synthesized and sampled sound as well as various strategies of remembering and forgetting using neural networks.
+
+de_umbris.idearum is the name of my solo improvised electronic project. For me improvisation relates to embodiment and memory and the name was chosen in reference to Renaissance esotericist Giordano Bruno. As I was beginning to write code, I was also engaged in a choreographic practice involving reflective writing which also influenced me (notably in my desire to work with multi-channel audio).
+
+This performance is specific to this occasion and dedicated to Mark Molnar.
+

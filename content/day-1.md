@@ -8,6 +8,7 @@ title = 'Day 1'
 **Thursday, March 13, 2025**
 
 
+---
 ## Coffee  
 8:30am - 9am  
 TBD
@@ -22,7 +23,8 @@ James McCartney studied computer science and electronic music at the University 
 ---
 ## Paper Session 1  
 10:20am - 11:40am  
-TBD
+TBD  
+[go to abstracts](/paper-session-1/)
 
 **YAWN**  
 &emsp;&emsp;*Mike McCormic*  
@@ -43,8 +45,11 @@ TBD
 
 ---
 ## Concert 1  
+
 1pm  
-TBD
+TBD  
+[go to program](/concert-1)
+
 
 
 ***_hypercubx A/V*** by Luis Alfonso Tamagnini  
@@ -73,13 +78,13 @@ TBD
 *Both workshops are one hour and occur simultaneously.*
 
 
-### Title of the workshop
+### SPRAWL 3.0
 
 *Led by Henrick von Coler*  
 TBD  
 
 
-### Title of the workshop
+### Live4Life
 
 *Led by Christophe Lengelé*  
 TBD  
@@ -88,29 +93,33 @@ TBD
 ---
 ## Paper Session 2  
 4pm - 5:20pm  
-TBD
+TBD  
+[go to abstracts](/paper-session-2/)
 
-**Title of the talk**  
+**SCKinect**  
 &emsp;&emsp;*Evan Murray*  
 &emsp;&emsp;4pm
 
-**Title of the talk**  
+**JITLib**  
 &emsp;&emsp;*James Harkins*  
 &emsp;&emsp;4:20pm
 
-**Title of the talk**  
+**A Case Study of Music Glyph Notation in SuperCollider using SMuFL fonts**  
 &emsp;&emsp;*Tom Hall*  
 &emsp;&emsp;4:40pm
 
-**Title of the talk**  
+**An Exploratory Analysis of SCTweets Classification and Similarity**  
 &emsp;&emsp;*Fellipe M. Martins*  
 &emsp;&emsp;5pm
 
 
 ---
 ## Concert 2  
+
 7:30pm  
-TBD
+TBD  
+[go to program](/concert-2)
+
 
 
 ***Thormulator*** by Thor Madsen  
