@@ -2,53 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SuperCollider Symposium 2025: The Future of SuperCollider on The Future of SuperCollider</title>
-    <link>http://localhost:1313/</link>
+    <link>https://supercollider-2025.github.io/</link>
     <description>Recent content in SuperCollider Symposium 2025: The Future of SuperCollider on The Future of SuperCollider</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jan 2025 11:15:55 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://supercollider-2025.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resources</title>
-      <link>http://localhost:1313/resources/</link>
+      <link>https://supercollider-2025.github.io/resources/</link>
       <pubDate>Sat, 25 Jan 2025 11:15:55 -0500</pubDate>
-      <guid>http://localhost:1313/resources/</guid>
+      <guid>https://supercollider-2025.github.io/resources/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/supercollider-2025/supercollider-2025.github.io/raw/refs/heads/main/paper-templates/SC_2025_Paper_Templates.zip&#34;&gt;Paper templates&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Streaming</title>
-      <link>http://localhost:1313/streaming/</link>
+      <link>https://supercollider-2025.github.io/streaming/</link>
       <pubDate>Sat, 25 Jan 2025 10:53:10 -0500</pubDate>
-      <guid>http://localhost:1313/streaming/</guid>
+      <guid>https://supercollider-2025.github.io/streaming/</guid>
       <description>&lt;p&gt;coming soon&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Registration</title>
-      <link>http://localhost:1313/registration/</link>
+      <title>Bios</title>
+      <link>https://supercollider-2025.github.io/bios/</link>
       <pubDate>Fri, 24 Jan 2025 21:30:10 -0500</pubDate>
-      <guid>http://localhost:1313/registration/</guid>
+      <guid>https://supercollider-2025.github.io/bios/</guid>
+      <description>&lt;h2 id=&#34;james-annett&#34;&gt;James Annett&lt;/h2&gt;&#xA;&lt;p&gt;James Annett is a multi-instrumentalist and composer currently based in Montreal. His music explores the intersections between diverse styles of music including jazz, contemporary and experimental rock music. His artistic practice is based in improvisation and also incorporates dance and interactivity. He has performed alongside Roscoe Mitchell, Malcolm Goldstein, as a member of the Ratchet Orchestra and in his trio Say Spirit with Colin Fisher and Josh Cole. He performs regularly at events and festivals in Canada including FIMAV, Suoni Per Il Popolo and the Off Jazz Festival.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day 1</title>
+      <link>https://supercollider-2025.github.io/day-1/</link>
+      <pubDate>Fri, 24 Jan 2025 21:30:10 -0500</pubDate>
+      <guid>https://supercollider-2025.github.io/day-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Thursday, March 13, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;coffee&#34;&gt;Coffee&lt;/h2&gt;&#xA;&lt;p&gt;8:30am - 9am&lt;br&gt;&#xA;TBD&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;keynote-address-james-mccartney&#34;&gt;Keynote Address: James McCartney&lt;/h2&gt;&#xA;&lt;p&gt;9am - 10am&lt;br&gt;&#xA;TBD&lt;/p&gt;&#xA;&lt;p&gt;James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day 2</title>
+      <link>https://supercollider-2025.github.io/day-2/</link>
+      <pubDate>Fri, 24 Jan 2025 21:30:10 -0500</pubDate>
+      <guid>https://supercollider-2025.github.io/day-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Friday, March 14, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;coffee&#34;&gt;Coffee&lt;/h2&gt;&#xA;&lt;p&gt;8:30am - 9am&lt;br&gt;&#xA;TBD&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;keynote-address-lucile-nihlen&#34;&gt;Keynote Address: Lucile Nihlen&lt;/h2&gt;&#xA;&lt;p&gt;9am - 10am&lt;br&gt;&#xA;TBD&lt;/p&gt;&#xA;&lt;p&gt;Lucile Nihlen has worked as a professional software developer for over 25 years, working across a broad variety of domains largely in the interactive and digital media spaces. She currently is focused on compilers, toolchains, and programming languages. She is a Senior Staff Software Developer at Google where she is the Technical Lead for Google’s production compiler toolchain. In her spare time she is the author of Hadron, a re-implementation of the SuperCollider interpreter and synthesis server written in Rust and based on LLVM. Lucile lives in Toronto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day 3</title>
+      <link>https://supercollider-2025.github.io/day-3/</link>
+      <pubDate>Fri, 24 Jan 2025 21:30:10 -0500</pubDate>
+      <guid>https://supercollider-2025.github.io/day-3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Saturday, March 15, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;coffee&#34;&gt;Coffee&lt;/h2&gt;&#xA;&lt;p&gt;8:30am - 9am&lt;br&gt;&#xA;TBD&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;keynote-address-christof-ressi&#34;&gt;Keynote Address: Christof Ressi&lt;/h2&gt;&#xA;&lt;p&gt;9am - 10am&lt;br&gt;&#xA;TBD&lt;/p&gt;&#xA;&lt;p&gt;Christof Ressi is an Austrian composer, arranger, media artist and software developer. He studied composition and music theory, jazz composition and computer music and currently lives in Vienna. His artistic work spans various genres including contemporary classical art music, jazz, experimental electronics, and media art. He produces music, sound design and video for theater and dance productions and arranges music for all kinds of ensembles and instruments, including big band and orchestra.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>https://supercollider-2025.github.io/registration/</link>
+      <pubDate>Fri, 24 Jan 2025 21:30:10 -0500</pubDate>
+      <guid>https://supercollider-2025.github.io/registration/</guid>
       <description>&lt;p&gt;If you are presenting at the conference, you&amp;rsquo;re already registered!&lt;br&gt;&#xA;If you are not presenting, but would like to attend, please register &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSerj_sYWaG2_wJbAOmT3gYSh3bhpnoTke1CmKYyMEeyKc-Y_A/viewform?usp=dialog&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/location/</link>
+      <link>https://supercollider-2025.github.io/location/</link>
       <pubDate>Fri, 24 Jan 2025 21:30:04 -0500</pubDate>
-      <guid>http://localhost:1313/location/</guid>
+      <guid>https://supercollider-2025.github.io/location/</guid>
       <description>&lt;p&gt;All conference events will take place at the Johns Hopkins University &lt;a href=&#34;https://washingtondc.jhu.edu/about/our-building/&#34;&gt;Bloomberg Center&lt;/a&gt; located at:&lt;/p&gt;&#xA;&lt;p&gt;555 Pennsylvania Avenue NW&lt;br&gt;&#xA;Washington D.C. 20001 USA&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/place/555+Pennsylvania+Avenue+NW,+Washington,+DC+20001/@38.8931875,-77.0220868,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b778be2c23ad:0xa8685e201a0cd4e0!8m2!3d38.8931875!4d-77.0195119!16s%2Fg%2F11vz3lcgkv?entry=ttu&amp;amp;g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D&#34;&gt;Google Maps&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://washingtondc.jhu.edu/about/maps-directions/&#34;&gt;Information for arrival by metro, bus, train, or plane&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keynote Speakers</title>
-      <link>http://localhost:1313/keynote-speakers/</link>
+      <link>https://supercollider-2025.github.io/keynote-speakers/</link>
       <pubDate>Fri, 24 Jan 2025 21:29:54 -0500</pubDate>
-      <guid>http://localhost:1313/keynote-speakers/</guid>
+      <guid>https://supercollider-2025.github.io/keynote-speakers/</guid>
       <description>&lt;h1 id=&#34;james-mccartney&#34;&gt;James McCartney&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Thursday, March 13, 2025 • 9am&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schedule</title>
-      <link>http://localhost:1313/schedule/</link>
+      <link>https://supercollider-2025.github.io/schedule/</link>
       <pubDate>Fri, 24 Jan 2025 21:01:50 -0500</pubDate>
-      <guid>http://localhost:1313/schedule/</guid>
-      <description>&lt;p&gt;coming soon&lt;/p&gt;</description>
+      <guid>https://supercollider-2025.github.io/schedule/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://supercollider-2025.github.io/day-1/&#34;&gt;Day 1&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://supercollider-2025.github.io/day-2/&#34;&gt;Day 2&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://supercollider-2025.github.io/day-3/&#34;&gt;Day 3&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
