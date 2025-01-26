@@ -11,27 +11,27 @@ title = 'Day 1'
 ---
 ## Coffee  
 8:30am - 9am  
-TBD
+Location TBA
 
 ---
 ## Keynote Address: James McCartney  
 9am - 10am  
-TBD
+Location TBA
 
 James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.
 
 ---
 ## Paper Session 1  
 10:20am - 11:40am  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-1/)
 
 **YAWN**  
-&emsp;&emsp;*Mike McCormic*  
+&emsp;&emsp;*Mike McCormick*  
 &emsp;&emsp;10:20am
 
 **MIRLCa**  
-&emsp;&emsp;*Anna Xambo*  
+&emsp;&emsp;*Anna Xambó*  
 &emsp;&emsp;10:40am
 
 **Sound Matching**  
@@ -47,7 +47,7 @@ TBD
 ## Concert 1  
 
 1pm  
-TBD  
+Location TBA  
 [go to program](/concert-1)
 
 
@@ -81,19 +81,19 @@ TBD
 ### SPRAWL 3.0
 
 *Led by Henrick von Coler*  
-TBD  
+Location TBA  
 
 
 ### Live4Life
 
 *Led by Christophe Lengelé*  
-TBD  
+Location TBA  
 
 
 ---
 ## Paper Session 2  
 4pm - 5:20pm  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-2/)
 
 **SCKinect**  
@@ -117,7 +117,7 @@ TBD
 ## Concert 2  
 
 7:30pm  
-TBD  
+Location TBA  
 [go to program](/concert-2)
 
 

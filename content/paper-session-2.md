@@ -7,11 +7,11 @@ title = 'Paper Session 2'
 
 Thursday, March 13, 2025  
 4pm - 5:20pm  
-TBD
+Location TBA
 
 ## SCKinect
 
-Evan Murray  
+[Evan Murray](/bios/#evan-murray)  
 4pm
 
 SCKinect is a SuperCollider plugin which allows users to interact with the Kinect v2 sensor in the server and language. Its core implementation contains a UGen called “Kinect,” designed to output human skeleton joint-tracking data to control buses. It will also include primitives designed to facilitate user interaction with Kinect devices. One example would be for users to be able to post all the available Kinect devices to the post window in SuperCollider, similar to how other human input devices work.
@@ -22,14 +22,14 @@ This project relates to interactive music systems and plugins for scsynth. Addit
 
 ## JITLib
 
-James Harkins  
+[James Harkins](/bios/#james-harkins)  
 4:20pm
 
 SuperCollider's Just-In-Time Library (JITLib) supports free experimentation with a wide variety of signal processing strategies, making it a good choice for SynthDef development and for teaching non-programmers. On its own, however, particularly for students, it poses some challenges: a lack of clear best practices for managing signal topology and routing, and the fact that a JITLib code document reflects a work-in-progress and may not unambiguously show the current state of the system. My JITModular project uses JITLib as a monophonic modular synthesizer, building on top of JITLib: 1/ clear, consistent recommendations for signal handling; 2/ a graphical interface to the side of the code window, providing access to parameters and displaying the current state; 3/ unified controls; 4/ a patch-saving mechanism that preserves code, state and resources (e.g. buffers and MIDI controllers). This workshop will introduce these features and demonstrate their pedagogical value. (Topics: live coding, extensions of sclang)
 
 ## A Case Study of Music Glyph Notation in SuperCollider using SMuFL fonts
 
-Tom Hall  
+[Tom Hall](/bios/#tom-hall)  
 4:40pm
 
 *Keywords: extensions of sclang, live coding, multimedia music systems.*
@@ -40,7 +40,7 @@ Combining these approaches, the class ‘THNoteViewer’ enables the dynamic pre
 
 ## An Exploratory Analysis of SCTweets Classification and Similarity
 
-Fellipe M. Martins  
+[Fellipe M. Martins](/bios/#fellipe-m.-martins)  
 5pm
 
 In the field of electroacoustic music, few artists and composers have published detailed information about their processes, and an even smaller number have provided a comprehensive blueprint, code, or instruction set that allows for a facsimile reconstruction of their work. With the advent of digital audio and the rise of creators making music exclusively on personal computers, it has become possible to track numerous details of the composition process when the software files are available. The use of programming languages for music composition has opened up a unique avenue for analysis, enabling musicologists to evaluate more clearly the relationship between sound results, high-level extracted features, and the tools and techniques used in their creation. An exceptional case is the SCTweets — 140-character SuperCollider code snippets that typically comprise compact sound procedures or dense compositions, shared on the microblogging platform Twitter (now X). We discuss the initial results of a timbral exploratory analysis on a specific set of SCTweets: tweets shared by Fredrik Olofsson on the repository sccode.org. Using the FluCoMa toolkit, we evaluate how timbral similarity might correlate with auditory criteria proposed by Pierre Schaeffer's theory. Additionally, we reveal various challenges and insights when correlating the usage of UGens and the provided timbral map. We selected Olofsson's SCTweets due to their unique use of the SuperCollider language, which often features codes utilizing only one number (666, 42, 1, 7), one type of UGen (SinOsc, Saw, LFCub), and codes that deliberately push DSP procedures to their limits to create new sounds, while adhering to the restriction of using only vanilla SC. We conclude the text with a discussion about the novelty of this analytical technique, presenting our findings and potential pitfalls.

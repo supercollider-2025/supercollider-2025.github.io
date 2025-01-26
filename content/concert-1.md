@@ -7,7 +7,7 @@ title = 'Concert 1'
 
 Thursday, March 13, 2025  
 1pm  
-TBD
+Location TBA
 
 
 ***_hypercubx A/V*** by Luis Alfonso Tamagnini  

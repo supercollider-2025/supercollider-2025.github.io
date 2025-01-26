@@ -7,11 +7,11 @@ title = 'Paper Session 5'
 
 Saturday, March 15, 2025  
 3pm - 4:20pm  
-TBD
+Location TBA
 
 ## THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)
 
-Alfonso Fellipe Romagna  
+[Alfonso Fellipe Romagna](/bios/#alfonso-fellipe-romagna)  
 3pm
 
 *Keywords: SuperCollider, MediaPipe, openFrameworks, Creative processes, Interactive Systems*
@@ -20,7 +20,7 @@ This work presents the creative and compositional processes in the piece Guerrei
 
 ## Block SuperCollider
 
-Rohan Drape  
+[Rohan Drape](/bios/#rohan-drape)  
 3:20pm
 
 *Keywords: open-source programming language design, interactive music systems, alternative language clients for scsynth*
@@ -29,14 +29,14 @@ Block SuperCollider is an experimental visual programming language specialised f
 
 ## ChessSynth
 
-Victor Zheng  
+[Victor Zheng](/bios/#victor-zheng)  
 3:40pm
 
 I propose to introduce ChessSynth, a framework built in SuperCollider for procedurally generating a soundtrack in real time to chess games. I will describe my methodology and algorithm design and then present some demonstrations of sample generations of chess games. This work touches upon algorithmic composition, data sonification, and potentially asks the question of using a non-musical entity such as chess as a factor in live performance of music.
 
 ## Polytempic Music with SuperCollider
 
-Derek Worthington  
+[Derek Worthington](/bios/#derek-worthington)  
 4pm
 
 I began composing polytempic music – music in multiple tempos simultaneously – using a ruler and pencil, measuring out relative bar lengths to line up parts. This was extremely labor intensive, and if I wanted to change any tempo relationships, everything would need to be completely redone. So I used SuperCollider to build a visual system to make the compositional workflow as smooth as possible.

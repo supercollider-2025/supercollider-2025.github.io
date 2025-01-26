@@ -17,27 +17,27 @@ title = 'Full Schedule'
 ---
 ## Coffee  
 8:30am - 9am  
-TBD
+Location TBA
 
 ---
 ## Keynote Address: James McCartney  
 9am - 10am  
-TBD
+Location TBA
 
 James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.
 
 ---
 ## Paper Session 1  
 10:20am - 11:40am  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-1/)
 
 **YAWN**  
-&emsp;&emsp;*Mike McCormic*  
+&emsp;&emsp;*Mike McCormick*  
 &emsp;&emsp;10:20am
 
 **MIRLCa**  
-&emsp;&emsp;*Anna Xambo*  
+&emsp;&emsp;*Anna Xambó*  
 &emsp;&emsp;10:40am
 
 **Sound Matching**  
@@ -53,7 +53,7 @@ TBD
 ## Concert 1  
 
 1pm  
-TBD  
+Location TBA  
 [go to program](/concert-1)
 
 
@@ -87,19 +87,19 @@ TBD
 ### SPRAWL 3.0
 
 *Led by Henrick von Coler*  
-TBD  
+Location TBA  
 
 
 ### Live4Life
 
 *Led by Christophe Lengelé*  
-TBD  
+Location TBA  
 
 
 ---
 ## Paper Session 2  
 4pm - 5:20pm  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-2/)
 
 **SCKinect**  
@@ -123,7 +123,7 @@ TBD
 ## Concert 2  
 
 7:30pm  
-TBD  
+Location TBA  
 [go to program](/concert-2)
 
 
@@ -169,19 +169,19 @@ TBD
 ---
 ## Coffee  
 8:30am - 9am  
-TBD
+Location TBA
 
 ---
 ## Keynote Address: Lucile Nihlen  
 9am - 10am  
-TBD
+Location TBA
 
 Lucile Nihlen has worked as a professional software developer for over 25 years, working across a broad variety of domains largely in the interactive and digital media spaces. She currently is focused on compilers, toolchains, and programming languages. She is a Senior Staff Software Developer at Google where she is the Technical Lead for Google’s production compiler toolchain. In her spare time she is the author of Hadron, a re-implementation of the SuperCollider interpreter and synthesis server written in Rust and based on LLVM. Lucile lives in Toronto.
 
 ---
 ## Paper Session 3  
 10:20am - 11:40am  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-3/)
 
 **The code as the expression of its own vitalism**  
@@ -205,7 +205,7 @@ TBD
 ## Concert 3  
 
 1pm  
-TBD  
+Location TBA  
 [go to program](/concert-3)
 
 
@@ -250,13 +250,13 @@ TBD
 ### TODO
 
 *Led by Alberto de Campo & Bruno Gola*  
-TBD  
+Location TBA  
 
 
 ### TODO
 
 *Led by Joséphine Oberholtzer*  
-TBD  
+Location TBA  
 
 
 ---
@@ -266,17 +266,17 @@ TBD
 
 &emsp;&emsp;**Title of the installation**  
 &emsp;&emsp;&emsp;&emsp;*by Farrar*  
-&emsp;&emsp;&emsp;&emsp;TBD
+&emsp;&emsp;&emsp;&emsp;Location TBA
 
 &emsp;&emsp;**Title of the installation**  
 &emsp;&emsp;&emsp;&emsp;*by Webster*  
-&emsp;&emsp;&emsp;&emsp;TBD
+&emsp;&emsp;&emsp;&emsp;Location TBA
 
 ---
 ## Concert 4  
 
 7:30pm  
-TBD  
+Location TBA  
 [go to program](/concert-4)
 
 
@@ -306,19 +306,19 @@ TBD
 ---
 ## Coffee  
 8:30am - 9am  
-TBD
+Location TBA
 
 ---
 ## Keynote Address: Christof Ressi  
 9am - 10am  
-TBD
+Location TBA
 
 Christof Ressi is an Austrian composer, arranger, media artist and software developer. He studied composition and music theory, jazz composition and computer music and currently lives in Vienna. His artistic work spans various genres including contemporary classical art music, jazz, experimental electronics, and media art. He produces music, sound design and video for theater and dance productions and arranges music for all kinds of ensembles and instruments, including big band and orchestra.
 
 ---
 ## Paper Session 4  
 10:20am - 11:40am  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-4/)
 
 **ARCube**  
@@ -342,7 +342,7 @@ TBD
 ## Concert 5  
 
 1pm  
-TBD  
+Location TBA  
 [go to program](/concert-5)
 
 
@@ -366,7 +366,7 @@ TBD
 ---
 ## Paper Session 5  
 3pm - 4:20pm  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-5/)
 
 **THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)**  
@@ -389,18 +389,18 @@ TBD
 ---
 ## Roundtable Discussion: "The Future of SuperCollider"  
 4:30pm - 5:30pm  
-TBD
+Location TBA
 
 ---
 ## Banquet Dinner  
 5:45pm - 7:15pm  
-TBD
+Location TBA
 
 ---
 ## Concert 6  
 
 7:30pm  
-TBD  
+Location TBA  
 [go to program](/concert-6)
 
 

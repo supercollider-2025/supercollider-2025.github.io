@@ -11,19 +11,19 @@ title = 'Day 3'
 ---
 ## Coffee  
 8:30am - 9am  
-TBD
+Location TBA
 
 ---
 ## Keynote Address: Christof Ressi  
 9am - 10am  
-TBD
+Location TBA
 
 Christof Ressi is an Austrian composer, arranger, media artist and software developer. He studied composition and music theory, jazz composition and computer music and currently lives in Vienna. His artistic work spans various genres including contemporary classical art music, jazz, experimental electronics, and media art. He produces music, sound design and video for theater and dance productions and arranges music for all kinds of ensembles and instruments, including big band and orchestra.
 
 ---
 ## Paper Session 4  
 10:20am - 11:40am  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-4/)
 
 **ARCube**  
@@ -47,7 +47,7 @@ TBD
 ## Concert 5  
 
 1pm  
-TBD  
+Location TBA  
 [go to program](/concert-5)
 
 
@@ -71,7 +71,7 @@ TBD
 ---
 ## Paper Session 5  
 3pm - 4:20pm  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-5/)
 
 **THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)**  
@@ -94,18 +94,18 @@ TBD
 ---
 ## Roundtable Discussion: "The Future of SuperCollider"  
 4:30pm - 5:30pm  
-TBD
+Location TBA
 
 ---
 ## Banquet Dinner  
 5:45pm - 7:15pm  
-TBD
+Location TBA
 
 ---
 ## Concert 6  
 
 7:30pm  
-TBD  
+Location TBA  
 [go to program](/concert-6)
 
 

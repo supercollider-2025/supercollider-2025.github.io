@@ -7,7 +7,7 @@ title = 'Concert 2'
 
 Thursday, March 13, 2025  
 7:30pm  
-TBD
+Location TBA
 
 
 ***Thormulator*** by Thor Madsen  

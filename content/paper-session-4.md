@@ -7,11 +7,11 @@ title = 'Paper Session 4'
 
 Saturday, March 15, 2025  
 10:20am - 11:40am  
-TBD
+Location TBA
 
 ## ARCube
 
-Hyunkyung Shin  
+[Hyunkyung Shin](/bios/#hyunkyung-shin)  
 10:20am
 
 The study presents a SuperCollider-based spatial audio performance system that leverages an augmented reality (AR) interface, the ARCube. For real-time control and creative manipulation of spatialized sound, the system demonstrates how SuperCollider’s flexibility in handling complex synthesis and spatialization algorithms, combined with OSC (Open Sound Control) data from an AR interface, can be effectively harnessed for interactive and expressive live music performances.
@@ -24,21 +24,21 @@ To validate the system’s efficacy, a creative performance was designed with tr
 
 ## Performing and Sharing Laptop Ensemble Repertoire
 
-Joo Won Park  
+[Joo Won Park](/bios/#joo-won-park)  
 10:40am
 
 Laptop ensemble repertoire has a better chance for repeat performance if they have low technical, technological, and cost barriers. Composers can make and share such pieces by making easy-to-render SuperCollider codes and clear instructions. In this session, I will present two examples performed by multiple ensembles consisting of beginner SuperCollider users or electronic musicians.
 
 ## Declarative SuperCollider
 
-Scott Carver  
+[Scott Carver](/bios/#scott-carver)  
 11am
 
 Abstract Needed
 
 ## Stecker
 
-Dennis Scheiba  
+[Dennis Scheiba](/bios/#dennis-scheiba)  
 11:20am
 
 Stecker is a project which enhances the sound generating nature of SuperCollider by providing a native way of distributing and receiving low-latency audio and data-streams over the internet within SuperCollider using WebRTC.

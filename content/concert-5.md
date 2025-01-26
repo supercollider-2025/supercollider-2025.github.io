@@ -7,7 +7,7 @@ title = 'Concert 5'
 
 Saturday, March 15, 2025  
 1pm  
-TBD
+Location TBA
 
 
 ***The Absolute Relativity*** by Alberto de Campo & Bruno Gola  

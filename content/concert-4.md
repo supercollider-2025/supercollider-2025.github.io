@@ -7,7 +7,7 @@ title = 'Concert 4'
 
 Friday, March 14, 2025  
 7:30pm  
-TBD
+Location TBA
 
 
 ***Sigil II: Amistad*** by Monte Taylor  
@@ -48,4 +48,10 @@ The processes used to create *saccades* embody this density of information–and
 by [Kerrith Livengood](/bios/#kerrith-livengood)
 
 I am an improvising performer who is currently developing an ambitious multi-component performance array in SuperCollider. This elaborate setup includes unique live processing effects combining pitch-tracking and looping in complex chaotic ways. The project allows for integration of live instruments, MIDI instruments using VST plugins, and live coding into a single performance by a single performer. I've been performing live improv sets using different versions of this array over the last few months, with many different combinations of synthesizers, instruments, and musical toys. I'd like to present a performance using this multi-component array, as well as possible discussion of collaborative and multimedia possibilities, especially dance and live video improvisation.
+
+---
+
+## Performer Bios
+
+[Doug O'Connor](/bios/#doug-o'connor)  
 

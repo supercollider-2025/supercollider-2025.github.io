@@ -11,19 +11,19 @@ title = 'Day 2'
 ---
 ## Coffee  
 8:30am - 9am  
-TBD
+Location TBA
 
 ---
 ## Keynote Address: Lucile Nihlen  
 9am - 10am  
-TBD
+Location TBA
 
 Lucile Nihlen has worked as a professional software developer for over 25 years, working across a broad variety of domains largely in the interactive and digital media spaces. She currently is focused on compilers, toolchains, and programming languages. She is a Senior Staff Software Developer at Google where she is the Technical Lead for Google’s production compiler toolchain. In her spare time she is the author of Hadron, a re-implementation of the SuperCollider interpreter and synthesis server written in Rust and based on LLVM. Lucile lives in Toronto.
 
 ---
 ## Paper Session 3  
 10:20am - 11:40am  
-TBD  
+Location TBA  
 [go to abstracts](/paper-session-3/)
 
 **The code as the expression of its own vitalism**  
@@ -47,7 +47,7 @@ TBD
 ## Concert 3  
 
 1pm  
-TBD  
+Location TBA  
 [go to program](/concert-3)
 
 
@@ -92,13 +92,13 @@ TBD
 ### TODO
 
 *Led by Alberto de Campo & Bruno Gola*  
-TBD  
+Location TBA  
 
 
 ### TODO
 
 *Led by Joséphine Oberholtzer*  
-TBD  
+Location TBA  
 
 
 ---
@@ -108,17 +108,17 @@ TBD
 
 &emsp;&emsp;**Title of the installation**  
 &emsp;&emsp;&emsp;&emsp;*by Farrar*  
-&emsp;&emsp;&emsp;&emsp;TBD
+&emsp;&emsp;&emsp;&emsp;Location TBA
 
 &emsp;&emsp;**Title of the installation**  
 &emsp;&emsp;&emsp;&emsp;*by Webster*  
-&emsp;&emsp;&emsp;&emsp;TBD
+&emsp;&emsp;&emsp;&emsp;Location TBA
 
 ---
 ## Concert 4  
 
 7:30pm  
-TBD  
+Location TBA  
 [go to program](/concert-4)
 
 

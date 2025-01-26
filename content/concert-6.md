@@ -7,7 +7,7 @@ title = 'Concert 6'
 
 Saturday, March 15, 2025  
 7:30pm  
-TBD
+Location TBA
 
 
 **Improvisation** by Sam Pluta and Bonnie Lander  
@@ -35,7 +35,10 @@ TBD
 
 ### *Improvisation*
 
-by [Sam Pluta and Bonnie Lander](/bios/#sam-pluta-and-bonnie-lander)
+by:  
+[Sam Pluta](/bios/#sam-pluta)  
+[Bonnie Lander](/bios/#bonnie-lander)  
+
 
 Bonnie Lander and Sam Pluta have been performing in duo and other formations for the past 3 years. Their practice combines Lander’s virtuosic vocal technique with Pluta’s myriad synthesis and live-manipulation processes.
 
