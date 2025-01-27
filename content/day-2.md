@@ -62,6 +62,11 @@ Location TBA
 
 
 
+***Notoligotoma hardyi*** by Bruno Ruviaro  
+&emsp;&emsp;*Dustin Donahue, percussion*  
+
+
+
 ***2CUBES*** by Hyunkyung Shin and Henrik von Coler  
 &emsp;&emsp;*Hyunkyung Shin, Contrabass & ARCube*  
 &emsp;&emsp;*Henrik von Coler, Modular Synthesizer & ARCube*  
@@ -75,11 +80,6 @@ Location TBA
 
 ***Antithesis (this is the part where I scream)*** by Maxwell Miller  
 &emsp;&emsp;*Maxwell Miller, guitar & voice*  
-
-
-
-***Notoligotoma hardyi*** by Bruno Ruviaro  
-&emsp;&emsp;*Dustin Donahue, percussion*  
 
 
 ---

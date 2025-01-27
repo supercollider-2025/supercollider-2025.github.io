@@ -22,7 +22,6 @@ Location TBA
 
 **Improvisation** by Nothing New Trio  
 &emsp;&emsp;*Maxwell Gong, electronics*  
-&emsp;&emsp;*XuanQi Liu, electronics*  
 &emsp;&emsp;*Alexander Wu, electronics*  
 
 ---
@@ -47,7 +46,6 @@ by [Kosmas Giannoutakis](/bios/#kosmas-giannoutakis)
 
 by:  
 [Maxwell Gong](/bios/#maxwell-gong)  
-[XuanQi Liu](/bios/#xuanqi-liu)  
 [Alexander Wu](/bios/#alexander-wu)  
 
 

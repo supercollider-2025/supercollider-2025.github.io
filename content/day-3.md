@@ -64,7 +64,6 @@ Location TBA
 
 **Improvisation** by Nothing New Trio  
 &emsp;&emsp;*Maxwell Gong, electronics*  
-&emsp;&emsp;*XuanQi Liu, electronics*  
 &emsp;&emsp;*Alexander Wu, electronics*  
 
 

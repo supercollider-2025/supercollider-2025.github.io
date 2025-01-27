@@ -4,4 +4,6 @@ draft = false
 title = 'Resources'
 +++
 
+[Sound Check Schedule](/sound-check-schedule/)
+
 [Paper Templates](https://github.com/supercollider-2025/supercollider-2025.github.io/raw/refs/heads/main/paper-templates/SC_2025_Paper_Templates.zip)

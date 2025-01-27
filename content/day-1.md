@@ -34,8 +34,8 @@ Location TBA
 &emsp;&emsp;*Anna Xambó*  
 &emsp;&emsp;10:40am
 
-**Sound Matching**  
-&emsp;&emsp;*Gerard Roma*  
+**JITLib**  
+&emsp;&emsp;*James Harkins*  
 &emsp;&emsp;11am
 
 **supercollider-gst-rtp**  
@@ -100,8 +100,8 @@ Location TBA
 &emsp;&emsp;*Evan Murray*  
 &emsp;&emsp;4pm
 
-**JITLib**  
-&emsp;&emsp;*James Harkins*  
+**Sound Matching**  
+&emsp;&emsp;*Gerard Roma*  
 &emsp;&emsp;4:20pm
 
 **A Case Study of Music Glyph Notation in SuperCollider using SMuFL fonts**  

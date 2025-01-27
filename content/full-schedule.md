@@ -40,8 +40,8 @@ Location TBA
 &emsp;&emsp;*Anna Xambó*  
 &emsp;&emsp;10:40am
 
-**Sound Matching**  
-&emsp;&emsp;*Gerard Roma*  
+**JITLib**  
+&emsp;&emsp;*James Harkins*  
 &emsp;&emsp;11am
 
 **supercollider-gst-rtp**  
@@ -106,8 +106,8 @@ Location TBA
 &emsp;&emsp;*Evan Murray*  
 &emsp;&emsp;4pm
 
-**JITLib**  
-&emsp;&emsp;*James Harkins*  
+**Sound Matching**  
+&emsp;&emsp;*Gerard Roma*  
 &emsp;&emsp;4:20pm
 
 **A Case Study of Music Glyph Notation in SuperCollider using SMuFL fonts**  
@@ -220,6 +220,11 @@ Location TBA
 
 
 
+***Notoligotoma hardyi*** by Bruno Ruviaro  
+&emsp;&emsp;*Dustin Donahue, percussion*  
+
+
+
 ***2CUBES*** by Hyunkyung Shin and Henrik von Coler  
 &emsp;&emsp;*Hyunkyung Shin, Contrabass & ARCube*  
 &emsp;&emsp;*Henrik von Coler, Modular Synthesizer & ARCube*  
@@ -233,11 +238,6 @@ Location TBA
 
 ***Antithesis (this is the part where I scream)*** by Maxwell Miller  
 &emsp;&emsp;*Maxwell Miller, guitar & voice*  
-
-
-
-***Notoligotoma hardyi*** by Bruno Ruviaro  
-&emsp;&emsp;*Dustin Donahue, percussion*  
 
 
 ---
@@ -359,7 +359,6 @@ Location TBA
 
 **Improvisation** by Nothing New Trio  
 &emsp;&emsp;*Maxwell Gong, electronics*  
-&emsp;&emsp;*XuanQi Liu, electronics*  
 &emsp;&emsp;*Alexander Wu, electronics*  
 
 
