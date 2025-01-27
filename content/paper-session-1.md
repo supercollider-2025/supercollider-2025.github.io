@@ -27,7 +27,7 @@ In this talk I will present an overview of the SuperCollider classes I've been d
 
 In this presentation, I will introduce the state of affairs of the development of MIRLCa, a self-built tool in SuperCollider. The ongoing SC extension is a user-friendly live coding environment that allows the live coder to query crowdsourced sounds from the Freesound online database using MIR techniques together with interactive machine learning based on the FluCoMa library. This results in a crafted sound-based music style governed by a diverse chorale of sounds that the live coder attempts to tame. The presentation will cover both technical developments and artistic outcomes of using the tool.
 
-## JITLib
+## JITModular
 
 [James Harkins](/bios/#james-harkins)  
 11am

@@ -34,7 +34,7 @@ Location TBA
 &emsp;&emsp;*Anna Xambó*  
 &emsp;&emsp;10:40am
 
-**JITLib**  
+**JITModular**  
 &emsp;&emsp;*James Harkins*  
 &emsp;&emsp;11am
 

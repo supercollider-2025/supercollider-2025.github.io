@@ -40,7 +40,7 @@
                             "author": "James Harkins",
                             "time": "11am",
                             "remote": true,
-                            "title": "JITLib",
+                            "title": "JITModular",
                             "abstract": "SuperCollider's Just-In-Time Library (JITLib) supports free experimentation with a wide variety of signal processing strategies, making it a good choice for SynthDef development and for teaching non-programmers. On its own, however, particularly for students, it poses some challenges: a lack of clear best practices for managing signal topology and routing, and the fact that a JITLib code document reflects a work-in-progress and may not unambiguously show the current state of the system. My JITModular project uses JITLib as a monophonic modular synthesizer, building on top of JITLib: 1/ clear, consistent recommendations for signal handling; 2/ a graphical interface to the side of the code window, providing access to parameters and displaying the current state; 3/ unified controls; 4/ a patch-saving mechanism that preserves code, state and resources (e.g. buffers and MIDI controllers). This workshop will introduce these features and demonstrate their pedagogical value. (Topics: live coding, extensions of sclang)"
                         },
                         {
