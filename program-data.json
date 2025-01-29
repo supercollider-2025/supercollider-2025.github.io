@@ -169,7 +169,7 @@
                             "performers": [
                                 "Thor Madsen, Thormulator"
                             ],
-                            "program-note":"Program Note Needed"
+                            "program-note":"4 years ago I began work on Thormulator with no prior knowledge of SuperCollider or programming in general. I had two objectives:\n\nFirstly, I wanted to create an app I could improvise with - an app which would feed me back meaningful musical responses in direct reaction to my guitar playing.\n\nSecondly, I was imagining ways of playing into a sound, i.e., shaping the sound of other instruments with my playing in the same way you can shape a bag of rice with your hands.\n\nOne can summarize my goal as designing a system which:  \n- Follows the performer in real time  \n- Has a sufficient number of responses to create a wide range of possible outputs  \n- Responds in a way that feels meaningful to the performer  \n- Allows the performer the maximum amount of musical freedom and range of expression  \n- Works without the need to use external controllers\n\nIn using such a system, I wanted to see if it is possible to establish a feedback loop between performer and machine which can inspire a new way of interacting with performance software, possibly a new type of music.\n\nhttps://thormulator.com/  \nhttps://thormadsen.com/"
                         },
                         {
                             "composer": "Gaël Moriceau",
@@ -486,7 +486,8 @@
                             "performers": [
                                 "Workshop Participants"
                             ],
-                            "program-note":"The Absolute Relativity performance is the result of a workshop with 5-7 symposium participants. In this performance we explore the different possibilities of mutual influence in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.  In advance of the symposium, we will send an open call to the participants inviting people to sign up for a workshop and prepare two to three sound processes to be integrated into NTMI.\n\nDuring the concert we collectively play with this environment and each other sound worlds. The performance can be between 30 and 60 minutes. Depending on the available time we can show different influence topologies and strategies in the environment."
+                            "program-note":"The Absolute Relativity performance is the result of a workshop with 5-7 symposium participants. In this performance we explore the different possibilities of mutual influence in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.  In advance of the symposium, we will send an open call to the participants inviting people to sign up for a workshop and prepare two to three sound processes to be integrated into NTMI.\n\nDuring the concert we collectively play with this environment and each other sound worlds. The performance can be between 30 and 60 minutes. Depending on the available time we can show different influence topologies and strategies in the environment.",
+                            "rider":"Peabody is providing an 8-channel Focusrite"
                         },
                         {
                             "title": "Metacortical Modulations",

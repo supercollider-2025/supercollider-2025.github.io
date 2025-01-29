@@ -47,7 +47,23 @@ Location TBA
 
 by [Thor Madsen](/bios/#thor-madsen)
 
-Program Note Needed
+4 years ago I began work on Thormulator with no prior knowledge of SuperCollider or programming in general. I had two objectives:
+
+Firstly, I wanted to create an app I could improvise with - an app which would feed me back meaningful musical responses in direct reaction to my guitar playing.
+
+Secondly, I was imagining ways of playing into a sound, i.e., shaping the sound of other instruments with my playing in the same way you can shape a bag of rice with your hands.
+
+One can summarize my goal as designing a system which:  
+- Follows the performer in real time  
+- Has a sufficient number of responses to create a wide range of possible outputs  
+- Responds in a way that feels meaningful to the performer  
+- Allows the performer the maximum amount of musical freedom and range of expression  
+- Works without the need to use external controllers
+
+In using such a system, I wanted to see if it is possible to establish a feedback loop between performer and machine which can inspire a new way of interacting with performance software, possibly a new type of music.
+
+https://thormulator.com/  
+https://thormadsen.com/
 
 ### *T-Stick*
 
