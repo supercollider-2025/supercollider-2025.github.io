@@ -196,8 +196,8 @@ Location TBA
 &emsp;&emsp;*Steph OHara*  
 &emsp;&emsp;11am
 
-**Expanding the landscape of SC through multimodal art**  
-&emsp;&emsp;*Joel Ong*  
+**Stecker**  
+&emsp;&emsp;*Dennis Scheiba*  
 &emsp;&emsp;11:20am
 
 
@@ -333,8 +333,8 @@ Location TBA
 &emsp;&emsp;*Scott Carver*  
 &emsp;&emsp;11am
 
-**Stecker**  
-&emsp;&emsp;*Dennis Scheiba*  
+**Expanding the landscape of SC through multimodal art**  
+&emsp;&emsp;*Joel Ong*  
 &emsp;&emsp;11:20am
 
 
