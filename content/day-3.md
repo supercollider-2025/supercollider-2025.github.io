@@ -62,7 +62,7 @@ Location TBA
 
 
 
-**Improvisation** by Nothing New Trio  
+**Improvisation** by fmod  
 &emsp;&emsp;*Maxwell Gong, electronics*  
 &emsp;&emsp;*Alexander Wu, electronics*  
 

@@ -42,7 +42,7 @@ Bruno Gola is a Brazilian computer artist, sound artist and musician based in Be
 
 ## Maxwell Gong
 
-Max Gong is an improviser and composer based in Baltimore City. The primary focus of his work revolves around the design, implementation, and performance of a custom software-based electronic instrument that he interacts with via various hardware controllers. Drawing on his experiences as a pianist and trumpeter, he seeks to combine digital sound synthesis and signal processing with an intuitive, interactive, and integrated live performance practice. He frequently performs in the greater Baltimore area with local improvisers, including Darien Baiza, Paul Neidhardt, Sam Burt, Jason Willett, and Toshi Makihara. His most recent work involves a 6-channel inter-processing laptop trio, Nothing New, with Alexander Wu and XuanQi Liu. While pursuing his master’s degree in Computer Music at Peabody, he founded the Peabody Improvisers Collective, a student-led experimental improvising ensemble of students from various departments and performance backgrounds.
+Max Gong is an improviser, pianist, and electronic musician based in Baltimore. The primary focus of his work revolves around the design, implementation, and performance of a custom software-based electronic instrument that he interacts with via various hardware controllers. Drawing on his experiences as a pianist and trumpeter, he seeks to combine digital sound synthesis and signal processing with an intuitive, interactive, and integrated live performance practice. While pursuing his master’s degree in Computer Music at Peabody, he founded the Peabody Improvisers Collective, a student-led experimental improvising ensemble of students from various departments and performance backgrounds. He is also a member of Baltimore’s experimental music collective HighZero Foundation.
 
 ## Tom Hall
 
@@ -226,7 +226,7 @@ Composer/laptop performer Derek Worthington is an experimental musician whose wo
 
 ## Alexander Wu
 
-Bio Needed
+Alexander Wu is a composer, pianist, electronic producer, improviser, and programmer based in Baltimore, MD. His music is a constant negotiation between what is possible or present and what is not. In physical, logical, and perceptual extremities, he reconstructs memories, and with these sonic alterations, he captures emotional subtleties that are difficult to access through other mediums. After graduating summa cum laude from Berklee College of Music with a bachelor’s degree in Composition and Electronic Production and Design in 2023, Alexander is currently pursuing a master’s degree in Composition at the Peabody Institute, studying with Dr. Sky Macklay.
 
 ## Anna Xambó
 

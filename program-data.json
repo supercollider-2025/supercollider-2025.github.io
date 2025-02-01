@@ -100,7 +100,7 @@
                 "Marcin Pączkowski, motion sensors"
               ],
               "program-note": "The title of the piece comes from a nursery rhyme referenced in George Orwell’s book “1984”. Throughout the book the main character struggles to remember the poem’s ending, which is revealed to him at the key moment, right before he is captured: “Here comes a candle to light you to bed, here comes a chopper to chop off your head”.\n\nThis thread in the whole story resonated with me, as it touches on the volatility of one’s memory, with the backdrop of large-scale manipulation of recorded knowledge performed by the totalitarian regime in the book. While Orwell mostly deals with the memory that exists within humans and memory that’s written down, today we deal with omnipresence of recorded media of multiple sorts, particularly sounds, images, and videos. As we produce larger and larger amount of such records, not only through traditional books, audio records and movies, but also in social media, blogs, podcasts etc., I find it fascinating how we navigate this oversaturated space and how it is being transformed by both large-scale phenomena as well as targeted actions. In my piece I am seeking to explore these transformations by employing a machine learning model that embeds the memory of the piece. While being performed, the piece re-composes itself, as the model is being re-trained to embed new “memories” of the performance gestures.\n\nThis work is supported by the Department of Digital Arts and Experimental Media at the University of Washington, as well as eScience Institute with support from the Washington Research Foundation.\n\nThe piece is realized in 3rd order Ambisonics spatial sound format and employs custom motion sensors developed by the composer.",
-              "tech_needs": "tech rider needed"
+              "tech_needs": "Here comes a candle to light you to bed is performed in real time using motion sensors connected wirelessly to a laptop with audio interface, positioned downstage from to the performer. Sensors, laptop, and audio interface are provided by the composer/performer. No live audio input is used in the piece, all sounds are synthesized. The piece can be adapted to a variety of speaker setups, as it is generated in real time in the Ambisonics format and decoded for any number of speakers.\n\n**Speaker setup:**\n\n* Minimum: 2 (stereo)\n* Recommended: 4-8, surrounding the audience\n\n**Possible output connectors:**\n\n- 2-8x TRS\n- 2-8x XLR\n- Dante (Ethernet)"
             }
           ]
         },
@@ -187,7 +187,7 @@
                 "Gaël Moriceau, T-Stick"
               ],
               "program-note": "This performance, for T-Stick and FM synthesis, offers an immersion into a synthetic soundscape inspired by the calm moments and storms of nature. The sound textures, in constant metamorphosis, evolve from delicate layers to gusty winds, providing a dynamic and immersive auditory experience.",
-              "tech_needs": "Duration: 6-7 minutes.  The author will be performing the piece on stage. The following items will be supplied by the author: - Laptop (x1) - T-Stick (x1) - Router (x1) - Audio interface with stereo output (1/4\" jacks x2).  The author asks organizers to provide: - Table approximately 1 meter by 1 meter (x1) - Music stand (x1) - Music stand lamp (x1) - Extension cord for connecting the laptop (x1) - 1/4-inch jack cables (x2) to connect to the mixing console (the setup is stereo). - Loudspeakers (x2) connected to the mixing console (or directly to performer’s interface if no console is available) - Stage monitors (x2) - Moderate lighting during the performance The table with the laptop and interface should be positioned on stage or in close proximity for easy accessibility at the start of the performance.  More details in: https://drive.google.com/drive/folders/1I1kLqbyBRbKaovK60wRQSQBlNrK8cbpj "
+              "tech_needs": "Duration: 6-7 minutes.  The author will be performing the piece on stage. The following items will be supplied by the author:\n\n- Laptop (x1)\n- T-Stick (x1)\n- Router (x1)\n- Audio interface with stereo output (1/4\" jacks x2).\n\nThe author asks organizers to provide:\n\n- Table approximately 1 meter by 1 meter (x1)\n- Music stand (x1)\n- Music stand lamp (x1)\n- Extension cord for connecting the laptop (x1)\n- 1/4-inch jack cables (x2) to connect to the mixing console (the setup is stereo).\n- Loudspeakers (x2) connected to the mixing console (or directly to performer’s interface if no console is available)\n- Stage monitors (x2)\n- Moderate lighting during the performance The table with the laptop and interface should be positioned on stage or in close proximity for easy accessibility at the start of the performance.\n\nMore details in: https://drive.google.com/drive/folders/1I1kLqbyBRbKaovK60wRQSQBlNrK8cbpj "
             },
             {
               "composer": "Dennis Scheiba",
@@ -338,7 +338,7 @@
                 "Henrik von Coler, Modular Synthesizer & ARCube"
               ],
               "program-note": "CuboiDuo is an electronic duo performance utilizing two ARCube(s), an augmented reality (AR) interface designed for three-dimensional spatial control. The ARCube enhances engagement and immersion by being placed alongside physical control devices. Shaped as a cube with four 3-centimeter-diameter spheres, the ARCube enables spatial manipulation through AR. The virtual scene is generated using Unity Engine, and the cube serves as a scaled model representing the physical dimensions of the spatial audio system.\n\nTwo hand gestures, Grab and Pinch, enable intuitive interaction with the cube: the Grab gesture allows performers to move and rotate the cube, while the Pinch gesture controls the movement of the spherical objects within it. The cube’s Y-axis rotation is constrained to maintain stability during performance, and it can be conveniently placed next to the performers.\n\nFor virtual source positioning, OSC messages are transmitted at 100 Hz over WiFi to a Linux-based rendering server running SuperCollider-based spatialization software. Each performer’s instrument—double bass and modular synth—connects to four sound synthesis processes on the same server. Through the ARCube interface, performers can manipulate the individual sound characteristics of each process via gesture control.\n\nThe audio streams are routed to four Higher Order Ambisonics (HOA) encoders, generating four virtual sound sources that are decoded and projected through a quadraphonic loudspeaker setup. The real-time inputs from the double bass and modular synth undergo spatialization and sound transformation in real time, producing experimental electronic music.\n\nThe performance emphasizes avant-garde improvisation, blending the extended techniques of the double bass with the rhythmic, electronic sounds of the modular synth. This interplay creates an experimental stage where acoustic sounds are electronically transformed and layered with modular synth’s dynamic textures, resulting in a uniquely immersive electronic music experience.",
-              "tech_needs": "tech rider needed"
+              "tech_needs": "We will bring PCs for rendering and audio processing, along with network cables and a router, as well as two HMDs for the performers. We require four loudspeakers, a double bass with a bow, and eight XLR cables to connect instruments to the rendering PC. Additionally, we need a table for the modular synth setup and a projector or screen with HDMI input for the live-streamed AR scene. Proper lighting will also be helpful to enhance the performance."
             },
             {
               "composer": "Mason Moy",
@@ -524,7 +524,7 @@
               ],
               "program-note": "The Absolute Relativity performance is the result of a workshop with 5-7 symposium participants. In this performance we explore the different possibilities of mutual influence in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.  In advance of the symposium, we will send an open call to the participants inviting people to sign up for a workshop and prepare two to three sound processes to be integrated into NTMI.\n\nDuring the concert we collectively play with this environment and each other sound worlds. The performance can be between 30 and 60 minutes. Depending on the available time we can show different influence topologies and strategies in the environment.",
               "rider": "Peabody is providing an 8-channel Focusrite",
-              "tech_needs": "tech rider needed"
+              "tech_needs": "Depending on the venue's sound system possibilities we have different options:\n- the best option is one wide stereo pairs for every participant, for instance by patching everyone into a multi-channel system. This enables the audience loosely identify who is playing what, and have a nice immersive total spatial image of all performers.\n- an alternative is single individual speaker for each player.\n- a less optimal option is a mix down to a half circle of for speakers, for example. in this case we would need a mixer with enough input channels and flexible output routing."
             },
             {
               "title": "Metacortical Modulations",
@@ -538,12 +538,12 @@
               "tech_needs": "- 8-channel sound system (requested) - class-compliant USB audio interface that supports 8 audio outputs (requested - otherwise I can provide mine which has only 6 working audio outputs) - HDMI projector, screen and lighting (requested) - OpenBCI EEG (provided) - Laptop (provided) - Akai MIDIMIX (provided) - Mechanical keyboard (provided) - Performance table (requested)"
             },
             {
-              "description": "**Improvisation** by Nothing New Trio",
+              "description": "**Improvisation** by fmod",
               "bios": [
                 "Maxwell Gong",
                 "Alexander Wu"
               ],
-              "composer": "Nothing New Trio",
+              "composer": "f mod",
               "sound_check": "10:15am - 10:45am",
               "title": "Improvisation",
               "duration": 13,
@@ -551,8 +551,8 @@
                 "Maxwell Gong, electronics",
                 "Alexander Wu, electronics"
               ],
-              "program-note": "The Nothing New trio is a 6-channel inter-processing laptop trio of Alexander Wu, XuanQi Liu, and Max Gong. Each performer designs their program and interface and routes their outputs to the other two performers for processing and potential feedback. While Alex and Xuanqi’s instruments are designed in Max/MSP, Max’s is entirely built in SuperCollider. His instrument uses digital synthesis, processing, machine learning, and the FluCoMa Library, including multiple applications on various interfaces of neural network-controlled synthesizers and 2D-corpus explorer mapped onto a 5D touch interface.",
-              "tech_needs": "tech rider needed"
+              "program-note": "mod f is an electronic improvising duo of Alexander Wu and Maxwell Gong. In their music, the material world is distorted, physicality decoupled from sound waves; metaphors feed back into one another and into themselves. mod f constructs fragile moments of tranquility within chaotic systems and carves out dissenting spaces from the static humming of electric current.",
+              "tech_needs": "All three of us need to sit near our stereo outputs. Usually, this means one in the front, one on the left, and one on the right. We each need two monitors to listen to the other two performers. We each have two TRS outputs and need to route through the mixer to give mono sends to the other two performers. Depending on the location and tech availability, we are willing to make adjustments to our ideal setup."
             }
           ]
         },
@@ -625,7 +625,7 @@
                 "Bonnie Lander, voice"
               ],
               "program-note": "Bonnie Lander and Sam Pluta have been performing in duo and other formations for the past 3 years. Their practice combines Lander’s virtuosic vocal technique with Pluta’s myriad synthesis and live-manipulation processes.",
-              "tech_needs": "tech rider needed"
+              "tech_needs": "stereo sound to the house"
             },
             {
               "title": "Live for Life",

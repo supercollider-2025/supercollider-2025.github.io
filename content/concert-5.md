@@ -20,7 +20,7 @@ Location TBA
 
 
 
-**Improvisation** by Nothing New Trio  
+**Improvisation** by fmod  
 &emsp;&emsp;*Maxwell Gong, electronics*  
 &emsp;&emsp;*Alexander Wu, electronics*  
 
@@ -49,5 +49,5 @@ by:
 [Alexander Wu](/bios/#alexander-wu)  
 
 
-The Nothing New trio is a 6-channel inter-processing laptop trio of Alexander Wu, XuanQi Liu, and Max Gong. Each performer designs their program and interface and routes their outputs to the other two performers for processing and potential feedback. While Alex and Xuanqi’s instruments are designed in Max/MSP, Max’s is entirely built in SuperCollider. His instrument uses digital synthesis, processing, machine learning, and the FluCoMa Library, including multiple applications on various interfaces of neural network-controlled synthesizers and 2D-corpus explorer mapped onto a 5D touch interface.
+mod f is an electronic improvising duo of Alexander Wu and Maxwell Gong. In their music, the material world is distorted, physicality decoupled from sound waves; metaphors feed back into one another and into themselves. mod f constructs fragile moments of tranquility within chaotic systems and carves out dissenting spaces from the static humming of electric current.
 

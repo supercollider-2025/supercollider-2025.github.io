@@ -144,7 +144,7 @@ title = 'Sound Check Schedule'
 
 **10:15am - 10:45am**  
 &emsp;&emsp;***Improvisation***  
-&emsp;&emsp;by Nothing New Trio  
+&emsp;&emsp;by f mod  
 
 **10:45am - 11:15am**  
 &emsp;&emsp;***Metacortical Modulations***  

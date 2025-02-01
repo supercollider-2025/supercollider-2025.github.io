@@ -1,11 +1,12 @@
 ## Installation: {{title}}
 
+**Date:** {{day}}  
+**Location:** {{location}}  
 **Artist:** {{artist}}  
-**Location:** {{location}}
 
 **Tech Needs:** {{tech_needs}}
 
---
+---
 
 
 
