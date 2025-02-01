@@ -20,7 +20,7 @@ Location TBA
 
 
 
-**Improvisation** by fmod  
+**Improvisation** by f mod  
 &emsp;&emsp;*Maxwell Gong, electronics*  
 &emsp;&emsp;*Alexander Wu, electronics*  
 
