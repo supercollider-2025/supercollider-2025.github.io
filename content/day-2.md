@@ -106,11 +106,11 @@ Location TBA
 4pm - 5:30pm  
 
 
-&emsp;&emsp;**Title of the installation**  
+&emsp;&emsp;**Only footprints**  
 &emsp;&emsp;&emsp;&emsp;*by Farrar*  
 &emsp;&emsp;&emsp;&emsp;Location TBA
 
-&emsp;&emsp;**Title of the installation**  
+&emsp;&emsp;**Return to Tomorrow**  
 &emsp;&emsp;&emsp;&emsp;*by Webster*  
 &emsp;&emsp;&emsp;&emsp;Location TBA
 

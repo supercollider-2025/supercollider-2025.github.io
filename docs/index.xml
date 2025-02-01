@@ -100,6 +100,13 @@
       <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;day-1&#34;&gt;Day 1&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thursday, March 13, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;coffee&#34;&gt;Coffee&lt;/h2&gt;&#xA;&lt;p&gt;8:30am - 9am&lt;br&gt;&#xA;Location TBA&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;keynote-address-james-mccartney&#34;&gt;Keynote Address: James McCartney&lt;/h2&gt;&#xA;&lt;p&gt;9am - 10am&lt;br&gt;&#xA;Location TBA&lt;/p&gt;&#xA;&lt;p&gt;James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Installations</title>
+      <link>https://supercollider-2025.github.io/installations/</link>
+      <pubDate>Fri, 24 Jan 2025 21:30:10 -0500</pubDate>
+      <guid>https://supercollider-2025.github.io/installations/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;only-footprints&#34;&gt;&lt;em&gt;Only footprints&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;by Farrar&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Friday, March 14, 2025&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Location TBA&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Only footprints&lt;/em&gt; is an interactive multi-media installation that utilizes SuperCollider, Arduino, and the Godot game engine. The piece explores concepts of the human influence on the environment, distortion, and decay. The work consists of an interactive video, stereo to 8 channel sound, and a chair with an embedded Arduino. When the seat is empty the audio consists of recordings of extinct birds and the video a rendering of a forest, creating a facsimile of a nature scene. When an audience member sits in the chair a process of spectral stretching and distortion begins, deforming the audio, while a custom written shader stretches the geometry of the video in real time. This work relates to both interactive music systems and multimedia music systems, and (aspirationally) hopes of future work either embedding sclang and scsynth into the Godot engine directly (for XR installation) or embedding scsynth/supernova and using Godot&amp;rsquo;s native scripting language to interact with the server (alternative language clients for scsynth). To create this work I wrote an OSC library for Godot&amp;rsquo;s scripting language (GDScript).&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Paper Session 1</title>
       <link>https://supercollider-2025.github.io/paper-session-1/</link>
       <pubDate>Fri, 24 Jan 2025 21:30:10 -0500</pubDate>
@@ -167,7 +174,7 @@
       <link>https://supercollider-2025.github.io/schedule/</link>
       <pubDate>Fri, 24 Jan 2025 21:01:50 -0500</pubDate>
       <guid>https://supercollider-2025.github.io/schedule/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://supercollider-2025.github.io/full-schedule/&#34;&gt;Full Schedule&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://supercollider-2025.github.io/day-1/&#34;&gt;Day 1: Thursday, March 13, 2025&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://supercollider-2025.github.io/day-2/&#34;&gt;Day 2: Friday, March 14, 2025&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://supercollider-2025.github.io/day-3/&#34;&gt;Day 3: Saturday, March 15, 2025&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://supercollider-2025.github.io/full-schedule/&#34;&gt;Full Schedule&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://supercollider-2025.github.io/installations/&#34;&gt;Installations Schedule &amp;amp; Locations&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://supercollider-2025.github.io/day-1/&#34;&gt;Day 1: Thursday, March 13, 2025&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://supercollider-2025.github.io/day-2/&#34;&gt;Day 2: Friday, March 14, 2025&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://supercollider-2025.github.io/day-3/&#34;&gt;Day 3: Saturday, March 15, 2025&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
