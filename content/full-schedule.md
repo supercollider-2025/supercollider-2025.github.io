@@ -156,7 +156,7 @@ Location TBA
 
 
 
-***Improvisation*** by James Annett  
+**Improvisation** by de_umbris.idearum  
 &emsp;&emsp;*James Annett, electronics*  
 
 
@@ -361,7 +361,7 @@ Location TBA
 
 
 
-**Improvisation** by f mod  
+**Improvisation** by mod f  
 &emsp;&emsp;*Maxwell Gong, electronics*  
 &emsp;&emsp;*Alexander Wu, electronics*  
 

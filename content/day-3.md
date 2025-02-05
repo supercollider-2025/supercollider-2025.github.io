@@ -62,7 +62,7 @@ Location TBA
 
 
 
-**Improvisation** by f mod  
+**Improvisation** by mod f  
 &emsp;&emsp;*Maxwell Gong, electronics*  
 &emsp;&emsp;*Alexander Wu, electronics*  
 

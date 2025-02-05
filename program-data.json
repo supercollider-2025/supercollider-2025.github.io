@@ -224,10 +224,12 @@
               "tech_needs": "I have 8 mono audio files ready to be routed to an 8.1 surround setup."
             },
             {
-              "composer": "James Annett",
+              "description":"**Improvisation** by de_umbris.idearum",
+              "composer": "de_umbris.idearum",
               "title": "Improvisation",
               "sound_check": "2:45pm - 3:15pm",
               "duration": 13,
+              "bios":["James Annett"],
               "performers": [
                 "James Annett, electronics"
               ],
@@ -542,12 +544,12 @@
               "tech_needs": "- 8-channel sound system (requested) - class-compliant USB audio interface that supports 8 audio outputs (requested - otherwise I can provide mine which has only 6 working audio outputs) - HDMI projector, screen and lighting (requested) - OpenBCI EEG (provided) - Laptop (provided) - Akai MIDIMIX (provided) - Mechanical keyboard (provided) - Performance table (requested)"
             },
             {
-              "description": "**Improvisation** by f mod",
+              "description": "**Improvisation** by mod f",
               "bios": [
                 "Maxwell Gong",
                 "Alexander Wu"
               ],
-              "composer": "f mod",
+              "composer": "mod f",
               "sound_check": "10:15am - 10:45am",
               "title": "Improvisation",
               "duration": 13,

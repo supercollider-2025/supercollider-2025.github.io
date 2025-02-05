@@ -43,7 +43,7 @@ Location TBA
 
 ## Program Notes
 
-### *Lossy Codecs*
+### ***Improvisation using *Lossy Codecs*** directed by Derek Worthington*
 
 by [Derek Worthington](/bios/#derek-worthington)
 

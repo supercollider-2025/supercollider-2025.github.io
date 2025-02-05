@@ -43,7 +43,7 @@ title = 'Sound Check Schedule'
 
 **2:45pm - 3:15pm**  
 &emsp;&emsp;***Improvisation***  
-&emsp;&emsp;by James Annett  
+&emsp;&emsp;by de_umbris.idearum  
 
 **3:15pm - 3:45pm**  
 &emsp;&emsp;***Rock Music***  
@@ -144,7 +144,7 @@ title = 'Sound Check Schedule'
 
 **10:15am - 10:45am**  
 &emsp;&emsp;***Improvisation***  
-&emsp;&emsp;by f mod  
+&emsp;&emsp;by mod f  
 
 **10:45am - 11:15am**  
 &emsp;&emsp;***Metacortical Modulations***  

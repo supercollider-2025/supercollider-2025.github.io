@@ -43,7 +43,7 @@ This idea is imitated by the sound and video presented in the piece. It also ser
 
 The processes used to create *saccades* embody this density of information–and the constant struggle to track it all. Large datasets of audio analyses derived from the tape part are sent to neural networks and dimensionality reduction algorithms to find patterns and then visualize and sonify what is found. A plethora of variations on visual themes are created by the combinatorics of stochastically triggered visual synthesis modules and processing effects. Computer vision analysis adds layers to our visual and aural perception–tightly binding together the visual and auditory elements. In the final movement, source video of an eyeball is morphed via a convolutional neural network creating eyeballs that feel both simple and obvious, but also slightly make my stomach squirm.
 
-### *Improvisation*
+### ***Improvisation** by Kerrith Livengood*
 
 by [Kerrith Livengood](/bios/#kerrith-livengood)
 

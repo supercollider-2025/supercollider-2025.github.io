@@ -33,7 +33,7 @@ Location TBA
 
 ## Program Notes
 
-### *Improvisation*
+### ***Improvisation** by Sam Pluta and Bonnie Lander*
 
 by:  
 [Sam Pluta](/bios/#sam-pluta)  
@@ -50,7 +50,7 @@ This project is an electronic improvisation using SuperCollider-based synthesis 
 
 In addition to the Live For Life programme (https://github.com/Xon77/Live4Life), I will simultaneously use a new programme that I am currently developing, which integrates Tidal Cycles, SuperCollider, and various extensions quark, including SuperDirtMixer. This system features a GUI and controllers that execute command lines in Tidal Cycles and control multiple patterns and their variables (tempo, duration, synthesis, effects, or functions in patterns. It functions as a form of live coding DJing, where code lines replace traditional samples or records. The interface is still in development, with a public release planned for January 2025.
 
-### *Live Coding Performance*
+### ***Live Coding Performance** by Eli Fieldsteel*
 
 by [Eli Fieldsteel](/bios/#eli-fieldsteel)
 

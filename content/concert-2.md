@@ -36,7 +36,7 @@ Location TBA
 
 
 
-***Improvisation*** by James Annett  
+**Improvisation** by de_umbris.idearum  
 &emsp;&emsp;*James Annett, electronics*  
 
 ---
@@ -105,7 +105,7 @@ by [Kyle Shaw](/bios/#kyle-shaw)
 
 *Rock Music* is an 8-channel fixed-media composition. Supercollider provided all of the DSP needs for this piece -- granular synthesis UGens, resonant filter UGens, FFT UGens, wavetable synthesis, on top of writing my own functions to compose the piece's gestures and writing my own reverb SynthDef.
 
-### *Improvisation*
+### ***Improvisation** by de_umbris.idearum*
 
 by [James Annett](/bios/#james-annett)
 
