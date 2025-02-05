@@ -28,7 +28,9 @@ _Only footprints_ is an interactive multi-media installation that utilizes Super
 **Friday, March 14, 2025**  
 **Location TBA**
 
-_Return to Tomorrow_ is an opera from a Star Trek episode, using AI voices, written in Supercollider. In order to organize the music around speech-like rhythms, I built a kind of DAW that indexes all events not to beats/bars or minutes/seconds but instead to lines of text/syllables. This allowed me to reflow all music (including the singing) by tapping out rhythms on my laptop. Many tools were written to interact with video systems and build project files for external software.
+_Return to Tomorrow_ is an opera from the Star Trek episode of the same name, using AI voices, written in Supercollider.  The episode concerns a voice without a body, emanating from a dead planet, ultimately opening up ideas  about the human/machine interface, and the nature of consciousness and connection. The show is here performed by the computer - the code being interpreted can be seen behind and through meme-like stills from the show. It’s a recreation of a piece from the past about a warning from the future... presented, hopefully, with humor and pathos.
+
+In order to organize the music around speech-like rhythms, I built a kind of DAW that indexes all events not to beats/bars or minutes/seconds but instead to lines of text/syllables, allowing me to reflow all music (including the singing) by tapping out rhythms on my laptop, so the whole show retains a kind of parlando vibe and running time is very close to the original TV episode. Tools were written to build project files for the voice synth and interface with ffmpeg and Kitty to generate visuals.
 
 ---
 
