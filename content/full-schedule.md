@@ -81,12 +81,14 @@ Location TBA
 ## Workshop Session 1  
 2:45pm - 3:45pm
 
+[go to workshop descriptions](/workshop-session-1)
+
 *Both workshops are one hour and occur simultaneously.*
 
 
 ### SPRAWL 3.0
 
-*Led by Henrick von Coler*  
+*Led by Henrik von Coler*  
 Location TBA  
 
 
@@ -244,16 +246,18 @@ Location TBA
 ## Workshop Session 2  
 2:45pm - 3:45pm
 
+[go to workshop descriptions](/workshop-session-2)
+
 *Both workshops are one hour and occur simultaneously.*
 
 
-### TODO
+### The Absolute Relativity
 
 *Led by Alberto de Campo & Bruno Gola*  
 Location TBA  
 
 
-### TODO
+### Supriya
 
 *Led by Joséphine Oberholtzer*  
 Location TBA  
