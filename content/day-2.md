@@ -109,11 +109,11 @@ Location TBA
 
 
 &emsp;&emsp;**Only footprints**  
-&emsp;&emsp;&emsp;&emsp;*by Farrar*  
+&emsp;&emsp;&emsp;&emsp;*by Drew Farrar*  
 &emsp;&emsp;&emsp;&emsp;Location TBA
 
 &emsp;&emsp;**Return to Tomorrow**  
-&emsp;&emsp;&emsp;&emsp;*by Webster*  
+&emsp;&emsp;&emsp;&emsp;*by Michael Webster*  
 &emsp;&emsp;&emsp;&emsp;Location TBA
 
 ---

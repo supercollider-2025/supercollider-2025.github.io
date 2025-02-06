@@ -11,7 +11,7 @@ title = 'Installations'
 
 ## *Only footprints*
 
-**by Farrar**
+**by [Drew Farrar](/bios/#drew-farrar)**
 
 **Friday, March 14, 2025**  
 **Location TBA**
@@ -23,7 +23,7 @@ _Only footprints_ is an interactive multi-media installation that utilizes Super
 
 ## *Return to Tomorrow*
 
-**by Webster**
+**by [Michael Webster](/bios/#michael-webster)**
 
 **Friday, March 14, 2025**  
 **Location TBA**
@@ -37,7 +37,7 @@ In order to organize the music around speech-like rhythms, I built a kind of DAW
 
 ## *Gamang*
 
-**by Lecompte-Bergeron**
+**by [Sarah Lecompte-Bergeron](/bios/#sarah-lecompte-bergeron)**
 
 **Saturday, March 15, 2025**  
 **Location TBA**

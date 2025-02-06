@@ -4,7 +4,7 @@
 
 ## *{{title}}*
 
-**by {{artist}}**
+**by [{{artist}}](/bios/#{{linkable_name}})**
 
 **{{day}}**  
 **{{location}}**
