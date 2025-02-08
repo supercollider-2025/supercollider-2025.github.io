@@ -230,6 +230,7 @@
               "sound_check": "2:45pm - 3:15pm",
               "duration": 13,
               "bios":["James Annett"],
+              "sound_checkers":["James Annett"],
               "performers": [
                 "James Annett, electronics"
               ],
@@ -546,6 +547,10 @@
             {
               "description": "**Improvisation** by mod f",
               "bios": [
+                "Maxwell Gong",
+                "Alexander Wu"
+              ],
+              "sound_checkers": [
                 "Maxwell Gong",
                 "Alexander Wu"
               ],

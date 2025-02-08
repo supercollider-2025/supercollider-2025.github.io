@@ -44,6 +44,8 @@ title = 'Sound Check Schedule'
 **2:45pm - 3:15pm**  
 &emsp;&emsp;***Improvisation***  
 &emsp;&emsp;by de_umbris.idearum  
+&emsp;&emsp;**Performers:**  
+&emsp;&emsp;&emsp;&emsp;James Annett  
 
 **3:15pm - 3:45pm**  
 &emsp;&emsp;***Rock Music***  
@@ -145,6 +147,9 @@ title = 'Sound Check Schedule'
 **10:15am - 10:45am**  
 &emsp;&emsp;***Improvisation***  
 &emsp;&emsp;by mod f  
+&emsp;&emsp;**Performers:**  
+&emsp;&emsp;&emsp;&emsp;Maxwell Gong  
+&emsp;&emsp;&emsp;&emsp;Alexander Wu  
 
 **10:45am - 11:15am**  
 &emsp;&emsp;***Metacortical Modulations***  
