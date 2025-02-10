@@ -60,7 +60,7 @@ title = 'Sound Check Schedule'
 &emsp;&emsp;by Dennis Scheiba  
 
 **4:45pm - 5:15pm**  
-&emsp;&emsp;***T-Stick***  
+&emsp;&emsp;***Harmonic Turbulences***  
 &emsp;&emsp;by Gaël Moriceau  
 
 **5:15pm - 5:45pm**  

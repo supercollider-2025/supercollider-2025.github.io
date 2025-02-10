@@ -15,7 +15,7 @@ Location TBA
 
 
 
-***T-Stick*** by Gaël Moriceau  
+***Harmonic Turbulences*** by Gaël Moriceau  
 &emsp;&emsp;*Gaël Moriceau, T-Stick*  
 
 
@@ -65,7 +65,7 @@ In using such a system, I wanted to see if it is possible to establish a feedbac
 https://thormulator.com/  
 https://thormadsen.com/
 
-### *T-Stick*
+### *Harmonic Turbulences*
 
 by [Gaël Moriceau](/bios/#gaël-moriceau)
 

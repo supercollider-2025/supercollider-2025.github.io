@@ -119,7 +119,7 @@
             {
               "title": "Live4Life",
               "facilitator": "Christophe Lengelé",
-              "abstract": "The workshop is based on the demonstration of  this spatial performance tool : https://github.com/Xon77/Live4Life. In addition to the \"Live For Life programme\", I will simultaneously show a new programme that I am currently developing, which integrates Tidal Cycles, SuperCollider, and various extensions quark, including SuperDirtMixer. This system features a GUI and controllers that execute command lines in Tidal Cycles and control multiple patterns and their variables (tempo, duration, synthesis, effects, or functions in patterns. It functions as a form of live coding DJing, where code lines replace traditional samples or records. The interface is still in development, with a public release planned for January 2025. An exemple of the workshop is summarized in the following link.",
+              "abstract": "The workshop is based on the demonstration of  this spatial performance tool : https://github.com/Xon77/Live4Life. In addition to the \"Live For Life programme\", I will simultaneously present a new programme that I am currently developing, which integrates Tidal Cycles, SuperCollider, and various extensions quark, including SuperDirtMixer. This system features a GUI and controllers that execute command lines in Tidal Cycles and control multiple patterns and their variables (tempo, duration, synthesis, effects, or functions in patterns). It functions as a form of live coding DJing, where lines of code replace traditional samples or records. The interface is still in development, and the code will be released just before the symposium.",
               "location": "Location TBA",
               "tech_needs": "A quadriphonic system at the minimum to show spatialization, and a video-projector"
             }
@@ -180,7 +180,7 @@
             },
             {
               "composer": "Gaël Moriceau",
-              "title": "T-Stick",
+              "title": "Harmonic Turbulences",
               "duration": 7,
               "sound_check": "4:45pm - 5:15pm",
               "performers": [
@@ -646,7 +646,7 @@
               "performers": [
                 "Christophe Lengelé, electronics"
               ],
-              "program-note": "This project is an electronic improvisation using SuperCollider-based synthesis and recordings from various electronic machines, including modular synthesizers, analog and digital synthesizers, and drum machines. The primary sound source consists of over 2 gigabytes of samples, containing more than 5,500 sounds, organized into multiple folders for real-time manipulation. The improvisation focuses on creating evolving soundscapes by combining pre-recorded samples and live synthesis.\n\nIn addition to the Live For Life programme (https://github.com/Xon77/Live4Life), I will simultaneously use a new programme that I am currently developing, which integrates Tidal Cycles, SuperCollider, and various extensions quark, including SuperDirtMixer. This system features a GUI and controllers that execute command lines in Tidal Cycles and control multiple patterns and their variables (tempo, duration, synthesis, effects, or functions in patterns. It functions as a form of live coding DJing, where code lines replace traditional samples or records. The interface is still in development, with a public release planned for January 2025.",
+              "program-note": "This project is an electronic improvisation using SuperCollider-based synthesis and recordings from various electronic machines, including modular synthesizers, analog and digital synthesizers, and drum machines. The primary sound source consists of over 2 gigabytes of samples, containing more than 5,500 sounds, organized into multiple folders for real-time manipulation. The improvisation focuses on creating evolving soundscapes by combining pre-recorded samples and live synthesis.\n\nIn addition to the Live For Life programme ([https://github.com/Xon77/Live4Life](https://github.com/Xon77/Live4Life)), I will simultaneously use a new programme that I am currently developing, which integrates Tidal Cycles, SuperCollider, and various extensions quark, including SuperDirtMixer. This system features a GUI and controllers that execute command lines in Tidal Cycles and control multiple patterns and their variables (tempo, duration, synthesis, effects, or functions in patterns). It functions as a form of live coding DJing, where lines of code replace traditional samples or records. The interface is still in development, and the code will be released just before the symposium.",
               "tech_needs": "I bring a laptop and controllers. I've got also a Motu M4 with 4 outputs. I can spatialize on 8 loudspeakers with the appropriate sound card, but can also spatialize in quadraphony or output on stereo."
             },
             {
