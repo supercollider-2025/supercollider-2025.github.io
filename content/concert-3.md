@@ -7,7 +7,7 @@ title = 'Concert 3'
 
 Friday, March 14, 2025  
 1pm  
-Location TBA
+Bloomberg Center Theater
 
 
 **Improvisation using *Lossy Codecs*** directed by Derek Worthington  

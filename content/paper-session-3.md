@@ -7,7 +7,7 @@ title = 'Paper Session 3'
 
 Friday, March 14, 2025  
 10:20am - 11:40am  
-Location TBA
+Room 820
 
 ## The code as the expression of its own vitalism
 

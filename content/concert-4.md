@@ -7,7 +7,7 @@ title = 'Concert 4'
 
 Friday, March 14, 2025  
 7:30pm  
-Location TBA
+Bloomberg Center Theater
 
 
 ***Sigil II: Amistad*** by Monte Taylor  

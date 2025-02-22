@@ -7,7 +7,7 @@ title = 'Paper Session 4'
 
 Saturday, March 15, 2025  
 10:20am - 11:40am  
-Location TBA
+Room 426/428
 
 ## ARCube
 

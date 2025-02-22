@@ -24,14 +24,14 @@ Location TBA
 ---
 ## Keynote Address: Christof Ressi  
 9am - 10am  
-Location TBA
+Room 426/428
 
 Christof Ressi is an Austrian composer, arranger, media artist and software developer. He studied composition and music theory, jazz composition and computer music and currently lives in Vienna. His artistic work spans various genres including contemporary classical art music, jazz, experimental electronics, and media art. He produces music, sound design and video for theater and dance productions and arranges music for all kinds of ensembles and instruments, including big band and orchestra.
 
 ---
 ## Paper Session 4  
 10:20am - 11:40am  
-Location TBA  
+Room 426/428  
 [go to abstracts](/paper-session-4/)
 
 **ARCube**  
@@ -55,7 +55,7 @@ Location TBA
 ## Concert 5  
 
 1pm  
-Location TBA  
+Bloomberg Center Theater  
 [go to program](/concert-5)
 
 
@@ -78,7 +78,7 @@ Location TBA
 ---
 ## Paper Session 5  
 3pm - 4:20pm  
-Location TBA  
+Room 426/428  
 [go to abstracts](/paper-session-5/)
 
 **THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)**  
@@ -101,18 +101,18 @@ Location TBA
 ---
 ## Roundtable Discussion: "The Future of SuperCollider"  
 4:30pm - 5:30pm  
-Location TBA
+Room 426/428
 
 ---
 ## Banquet Dinner  
 5:45pm - 7:15pm  
-Location TBA
+Room 426/428
 
 ---
 ## Concert 6  
 
 7:30pm  
-Location TBA  
+Bloomberg Center Theater  
 [go to program](/concert-6)
 
 

@@ -7,7 +7,7 @@ title = 'Concert 6'
 
 Saturday, March 15, 2025  
 7:30pm  
-Location TBA
+Bloomberg Center Theater
 
 
 **Improvisation** by Sam Pluta and Bonnie Lander  

@@ -7,7 +7,7 @@ title = 'Paper Session 5'
 
 Saturday, March 15, 2025  
 3pm - 4:20pm  
-Location TBA
+Room 426/428
 
 ## THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)
 

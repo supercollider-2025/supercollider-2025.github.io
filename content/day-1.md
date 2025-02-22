@@ -16,14 +16,14 @@ Location TBA
 ---
 ## Keynote Address: James McCartney  
 9am - 10am  
-Location TBA
+Room 426/428
 
 James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.
 
 ---
 ## Paper Session 1  
 10:20am - 11:40am  
-Location TBA  
+Room 426/428  
 [go to abstracts](/paper-session-1/)
 
 **YAWN**  
@@ -47,7 +47,7 @@ Location TBA
 ## Concert 1  
 
 1pm  
-Location TBA  
+Bloomberg Center Theater  
 [go to program](/concert-1)
 
 
@@ -83,19 +83,19 @@ Location TBA
 ### SPRAWL 3.0
 
 *Led by Henrik von Coler*  
-Location TBA  
+Room 430  
 
 
 ### Live4Life
 
 *Led by Christophe Lengelé*  
-Location TBA  
+Room 1020  
 
 
 ---
 ## Paper Session 2  
 4pm - 5:20pm  
-Location TBA  
+Room 426/428  
 [go to abstracts](/paper-session-2/)
 
 **SCKinect**  
@@ -119,7 +119,7 @@ Location TBA
 ## Concert 2  
 
 7:30pm  
-Location TBA  
+Bloomberg Center Theater  
 [go to program](/concert-2)
 
 

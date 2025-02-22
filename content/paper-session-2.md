@@ -7,7 +7,7 @@ title = 'Paper Session 2'
 
 Thursday, March 13, 2025  
 4pm - 5:20pm  
-Location TBA
+Room 426/428
 
 ## SCKinect
 

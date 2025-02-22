@@ -14,7 +14,7 @@ title = 'Installations'
 **by [Drew Farrar](/bios/#drew-farrar)**
 
 **Friday, March 14, 2025**  
-**Location TBA**
+**Room 822**
 
 _Only footprints_ is an interactive multi-media installation that utilizes SuperCollider, Arduino, and the Godot game engine. The piece explores concepts of the human influence on the environment, distortion, and decay. The work consists of an interactive video, stereo to 8 channel sound, and a chair with an embedded Arduino. When the seat is empty the audio consists of recordings of extinct birds and the video a rendering of a forest, creating a facsimile of a nature scene. When an audience member sits in the chair a process of spectral stretching and distortion begins, deforming the audio, while a custom written shader stretches the geometry of the video in real time. This work relates to both interactive music systems and multimedia music systems, and (aspirationally) hopes of future work either embedding sclang and scsynth into the Godot engine directly (for XR installation) or embedding scsynth/supernova and using Godot's native scripting language to interact with the server (alternative language clients for scsynth). To create this work I wrote an OSC library for Godot's scripting language (GDScript).
 
@@ -26,7 +26,7 @@ _Only footprints_ is an interactive multi-media installation that utilizes Super
 **by [Michael Webster](/bios/#michael-webster)**
 
 **Friday, March 14, 2025**  
-**Location TBA**
+**Room 826**
 
 _Return to Tomorrow_ is an opera from the Star Trek episode of the same name, using AI voices, written in Supercollider.  The episode concerns a voice without a body, emanating from a dead planet, ultimately opening up ideas  about the human/machine interface, and the nature of consciousness and connection. The show is here performed by the computer - the code being interpreted can be seen behind and through meme-like stills from the show. It’s a recreation of a piece from the past about a warning from the future... presented, hopefully, with humor and pathos.
 
