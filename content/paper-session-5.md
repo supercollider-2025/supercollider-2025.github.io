@@ -11,7 +11,7 @@ Location TBA
 
 ## THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)
 
-[Alfonso Fellipe Romagna](/bios/#alfonso-fellipe-romagna)  
+[Afonso Fellipe Romagna](/bios/#afonso-fellipe-romagna)  
 3pm
 
 *Keywords: SuperCollider, MediaPipe, openFrameworks, Creative processes, Interactive Systems*

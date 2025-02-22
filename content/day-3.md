@@ -82,7 +82,7 @@ Location TBA
 [go to abstracts](/paper-session-5/)
 
 **THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)**  
-&emsp;&emsp;*Alfonso Fellipe Romagna*  
+&emsp;&emsp;*Afonso Fellipe Romagna*  
 &emsp;&emsp;3pm
 
 **Block SuperCollider**  
