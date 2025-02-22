@@ -660,17 +660,6 @@
               ],
               "program-note": "This submission proposes an improvised live coded performance, which is listed as a topic on the Call for Contributions. Ideally, this performance would occur at a late-night venue (e.g. a restaurant/bar or similar), which provides an atmosphere in which a relatively long and slow-evolving performance is more contextually appropriate. If this is not an option, a performance on the concert stage is also acceptable. Most rehearsals and performances in the past have lasted for about 30 minutes. If this is deemed too long for any reason, the duration can be shortened by leaning away from free improvisation and preparing more of the performance code in advance.",
               "tech_needs": "I am prepared to perform in eight-channel surround and will bring an audio interface with eight 1/4\" TRS outputs. If this option is not available, a stereo performance is also possible."
-            },
-            {
-              "title": "Microwebs",
-              "composer": "Bruno Gola",
-              "sound_check": "2:45pm - 3:15pm",
-              "duration": 15,
-              "performers": [
-                "Bruno Gola, electronics"
-              ],
-              "program-note": "Microwebs is a hybrid between live improvisational performance and installation for dynamic multichannel setups using audience's mobile phones as a sound system. The performance explores the relationship between cybernetic music, intuitive playing with macro-controls and influence, while also expanding those ideas into the audience participation via sound and space activation. During the live performance the audience is invited to explore the intra-action between sounds while the performer improvises with influence parameters. The resulting experience is a combination of relations between sound processes internally feedbacking in webs of sounds, the audience exploring the space with their mobiles as sound sources, and the performer influencing back the sound processes.",
-              "tech_needs": "The performance can last anytime between 15 to 30 minutes.  - table space for computer + small midi controller - internet availability (preferably if the location has good mobile coverage so the audience can join with their phones) - the performance is better suitable for a smaller room, since the only sound sources are the mobile phones of the audience - ideally the audience is able to move around and place their phones in different locations during the performance"
             }
           ]
         }

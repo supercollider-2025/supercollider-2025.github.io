@@ -430,8 +430,3 @@ Location TBA
 **Live Coding Performance** by Eli Fieldsteel  
 &emsp;&emsp;*Eli Fieldsteel, electronics*  
 
-
-
-***Microwebs*** by Bruno Gola  
-&emsp;&emsp;*Bruno Gola, electronics*  
-

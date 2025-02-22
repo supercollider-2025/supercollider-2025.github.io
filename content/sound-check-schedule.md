@@ -167,10 +167,6 @@ title = 'Sound Check Schedule'
 
 ## Concert 6
 
-**2:45pm - 3:15pm**  
-&emsp;&emsp;***Microwebs***  
-&emsp;&emsp;by Bruno Gola  
-
 **3:15pm - 3:45pm**  
 &emsp;&emsp;***Live Coding Performance***  
 &emsp;&emsp;by Eli Fieldsteel  

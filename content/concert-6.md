@@ -24,11 +24,6 @@ Location TBA
 **Live Coding Performance** by Eli Fieldsteel  
 &emsp;&emsp;*Eli Fieldsteel, electronics*  
 
-
-
-***Microwebs*** by Bruno Gola  
-&emsp;&emsp;*Bruno Gola, electronics*  
-
 ---
 
 ## Program Notes
@@ -55,10 +50,4 @@ In addition to the Live For Life programme ([https://github.com/Xon77/Live4Life]
 by [Eli Fieldsteel](/bios/#eli-fieldsteel)
 
 This submission proposes an improvised live coded performance, which is listed as a topic on the Call for Contributions. Ideally, this performance would occur at a late-night venue (e.g. a restaurant/bar or similar), which provides an atmosphere in which a relatively long and slow-evolving performance is more contextually appropriate. If this is not an option, a performance on the concert stage is also acceptable. Most rehearsals and performances in the past have lasted for about 30 minutes. If this is deemed too long for any reason, the duration can be shortened by leaning away from free improvisation and preparing more of the performance code in advance.
-
-### *Microwebs*
-
-by [Bruno Gola](/bios/#bruno-gola)
-
-Microwebs is a hybrid between live improvisational performance and installation for dynamic multichannel setups using audience's mobile phones as a sound system. The performance explores the relationship between cybernetic music, intuitive playing with macro-controls and influence, while also expanding those ideas into the audience participation via sound and space activation. During the live performance the audience is invited to explore the intra-action between sounds while the performer improvises with influence parameters. The resulting experience is a combination of relations between sound processes internally feedbacking in webs of sounds, the audience exploring the space with their mobiles as sound sources, and the performer influencing back the sound processes.
 
