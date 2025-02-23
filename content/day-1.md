@@ -52,11 +52,6 @@ James McCartney studied computer science and electronic music at the University 
 
 
 
-***_hypercubx A/V*** by Luis Alfonso Tamagnini  
-&emsp;&emsp;*Luis Alfonso Tamagnini, electronics*  
-
-
-
 ***the New Pulsar Generator*** by Marcin Pietruszewski  
 &emsp;&emsp;*Marcin Pietruszewski, the New Pulsar Generator*  
 

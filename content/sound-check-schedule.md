@@ -29,10 +29,6 @@ title = 'Sound Check Schedule'
 &emsp;&emsp;***the New Pulsar Generator***  
 &emsp;&emsp;by Marcin Pietruszewski  
 
-**11:45am - 12:15am**  
-&emsp;&emsp;***_hypercubx A/V***  
-&emsp;&emsp;by Luis Alfonso Tamagnini  
-
 
 
 ---

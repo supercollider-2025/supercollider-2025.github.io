@@ -10,11 +10,6 @@ Thursday, March 13, 2025
 1pm  
 
 
-***_hypercubx A/V*** by Luis Alfonso Tamagnini  
-&emsp;&emsp;*Luis Alfonso Tamagnini, electronics*  
-
-
-
 ***the New Pulsar Generator*** by Marcin Pietruszewski  
 &emsp;&emsp;*Marcin Pietruszewski, the New Pulsar Generator*  
 
@@ -31,12 +26,6 @@ Thursday, March 13, 2025
 ---
 
 ## Program Notes
-
-### *_hypercubx A/V*
-
-by [Luis Alfonso Tamagnini](/bios/#luis-alfonso-tamagnini)
-
-*_hypercubx* exists between a mathematical dimension and the singularity of its volumetric projection . The algorithmic flow models numerical meta-forms into sculptures of sound and light. The system is hacked in performance to break structures and express noise.
 
 ### *the New Pulsar Generator*
 

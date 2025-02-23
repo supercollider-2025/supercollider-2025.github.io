@@ -1,7 +1,8 @@
 ## Sound Check Time: {{sound_check}}
 
 **Composer:** {{composer}}  
-**Title:** *{{title}}*
+**Title:** *{{title}}*  
+**Duration:** {{duration}} minutes
 
 {% if performers is defined %}
 **Performers:**  
