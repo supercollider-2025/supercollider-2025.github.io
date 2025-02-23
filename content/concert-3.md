@@ -34,11 +34,6 @@ Friday, March 14, 2025
 ***Copper Ouroboros*** by Mason Moy  
 &emsp;&emsp;*Mason Moy, tuba*  
 
-
-
-***Antithesis (this is the part where I scream)*** by Maxwell Miller  
-&emsp;&emsp;*Maxwell Miller, guitar & voice*  
-
 ---
 
 ## Program Notes
@@ -80,12 +75,6 @@ by [Mason Moy](/bios/#mason-moy)
 
 Program Note Needed
 
-### *Antithesis (this is the part where I scream)*
-
-by [Maxwell Miller](/bios/#maxwell-miller)
-
-Antithesis (this is the part where I scream) is the embodiment of the frustration I sometimes feel dealing with a split sense of self. It explores feelings of inevitability and anger, with me grappling with the electronic sounds and fighting to retain voice as a performer amidst a thick and sometimes overwhelming texture. This piece is quite open in its structure, asking the performer to create gestures of increasing intensity until it reaches its point of climax, a full scream, until releasing that energy back into silence. This piece forgoes the use of video and is performed in near-darkness, symbolic of the internal experience it portrays.
-
 ---
 
 ## Performer Bios
@@ -93,4 +82,5 @@ Antithesis (this is the part where I scream) is the embodiment of the frustratio
 [James Annett](/bios/#james-annett)  
 [Dustin Donahue](/bios/#dustin-donahue)  
 [Kerrith Livengood](/bios/#kerrith-livengood)  
+[Maxwell Miller](/bios/#maxwell-miller)  
 

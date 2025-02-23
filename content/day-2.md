@@ -77,11 +77,6 @@ Lucile Nihlen has worked as a professional software developer for over 25 years,
 &emsp;&emsp;*Mason Moy, tuba*  
 
 
-
-***Antithesis (this is the part where I scream)*** by Maxwell Miller  
-&emsp;&emsp;*Maxwell Miller, guitar & voice*  
-
-
 ---
 ## Workshop Session 2  
 2:45pm - 3:45pm

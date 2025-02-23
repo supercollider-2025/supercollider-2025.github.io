@@ -10,6 +10,11 @@ Thursday, March 13, 2025
 1pm  
 
 
+***Antithesis (this is the part where I scream)*** by Maxwell Miller  
+&emsp;&emsp;*Maxwell Miller, guitar & voice*  
+
+
+
 ***the New Pulsar Generator*** by Marcin Pietruszewski  
 &emsp;&emsp;*Marcin Pietruszewski, the New Pulsar Generator*  
 
@@ -26,6 +31,12 @@ Thursday, March 13, 2025
 ---
 
 ## Program Notes
+
+### *Antithesis (this is the part where I scream)*
+
+by [Maxwell Miller](/bios/#maxwell-miller)
+
+Antithesis (this is the part where I scream) is the embodiment of the frustration I sometimes feel dealing with a split sense of self. It explores feelings of inevitability and anger, with me grappling with the electronic sounds and fighting to retain voice as a performer amidst a thick and sometimes overwhelming texture. This piece is quite open in its structure, asking the performer to create gestures of increasing intensity until it reaches its point of climax, a full scream, until releasing that energy back into silence. This piece forgoes the use of video and is performed in near-darkness, symbolic of the internal experience it portrays.
 
 ### *the New Pulsar Generator*
 

@@ -52,6 +52,11 @@ James McCartney studied computer science and electronic music at the University 
 
 
 
+***Antithesis (this is the part where I scream)*** by Maxwell Miller  
+&emsp;&emsp;*Maxwell Miller, guitar & voice*  
+
+
+
 ***the New Pulsar Generator*** by Marcin Pietruszewski  
 &emsp;&emsp;*Marcin Pietruszewski, the New Pulsar Generator*  
 

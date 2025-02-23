@@ -29,6 +29,10 @@ title = 'Sound Check Schedule'
 &emsp;&emsp;***the New Pulsar Generator***  
 &emsp;&emsp;by Marcin Pietruszewski  
 
+**11:45am - 12:15pm**  
+&emsp;&emsp;***Antithesis (this is the part where I scream)***  
+&emsp;&emsp;by Maxwell Miller  
+
 
 
 ---
@@ -74,10 +78,6 @@ title = 'Sound Check Schedule'
 
 
 ## Concert 3
-
-**10:15am - 10:45am**  
-&emsp;&emsp;***Antithesis (this is the part where I scream)***  
-&emsp;&emsp;by Maxwell Miller  
 
 **10:45am - 11:15am**  
 &emsp;&emsp;***Copper Ouroboros***  

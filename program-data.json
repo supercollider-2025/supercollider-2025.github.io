@@ -59,6 +59,17 @@
           "type": "concert",
           "works": [
             {
+              "composer": "Maxwell Miller",
+              "title": "Antithesis (this is the part where I scream)",
+              "duration": 9,
+              "sound_check": "11:45am - 12:15pm",
+              "performers": [
+                "Maxwell Miller, guitar & voice"
+              ],
+              "program-note": "Antithesis (this is the part where I scream) is the embodiment of the frustration I sometimes feel dealing with a split sense of self. It explores feelings of inevitability and anger, with me grappling with the electronic sounds and fighting to retain voice as a performer amidst a thick and sometimes overwhelming texture. This piece is quite open in its structure, asking the performer to create gestures of increasing intensity until it reaches its point of climax, a full scream, until releasing that energy back into silence. This piece forgoes the use of video and is performed in near-darkness, symbolic of the internal experience it portrays.",
+              "tech_needs": "Inputs (from FOH): none Outputs (to FOH):      Audio Interface Left (XLR)      Audio Interface Right (XLR) Power requirements: 1 grounded outlet.  Optional: Music stand  I can provide all other equipment.  My stage setup is as follows:      Laptop and iPad on laptop stand      Guitar amp modeler and audio interface/power strip on floor      Dynamic mic and mic stand"
+            },
+            {
               "composer": "Marcin Pietruszewski",
               "title": "the New Pulsar Generator",
               "duration": 10,
@@ -343,17 +354,6 @@
               ],
               "program-note": "Program Note Needed",
               "tech_needs": "I would only require a microphone to amplify my tuba performance. I will bring all other materials (speaker, interface, microphone for creating feedback). "
-            },
-            {
-              "composer": "Maxwell Miller",
-              "title": "Antithesis (this is the part where I scream)",
-              "duration": 9,
-              "sound_check": "10:15am - 10:45am",
-              "performers": [
-                "Maxwell Miller, guitar & voice"
-              ],
-              "program-note": "Antithesis (this is the part where I scream) is the embodiment of the frustration I sometimes feel dealing with a split sense of self. It explores feelings of inevitability and anger, with me grappling with the electronic sounds and fighting to retain voice as a performer amidst a thick and sometimes overwhelming texture. This piece is quite open in its structure, asking the performer to create gestures of increasing intensity until it reaches its point of climax, a full scream, until releasing that energy back into silence. This piece forgoes the use of video and is performed in near-darkness, symbolic of the internal experience it portrays.",
-              "tech_needs": "Inputs (from FOH): none Outputs (to FOH):      Audio Interface Left (XLR)      Audio Interface Right (XLR) Power requirements: 1 grounded outlet.  Optional: Music stand  I can provide all other equipment.  My stage setup is as follows:      Laptop and iPad on laptop stand      Guitar amp modeler and audio interface/power strip on floor      Dynamic mic and mic stand"
             }
           ]
         },

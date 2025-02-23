@@ -58,6 +58,11 @@ James McCartney studied computer science and electronic music at the University 
 
 
 
+***Antithesis (this is the part where I scream)*** by Maxwell Miller  
+&emsp;&emsp;*Maxwell Miller, guitar & voice*  
+
+
+
 ***the New Pulsar Generator*** by Marcin Pietruszewski  
 &emsp;&emsp;*Marcin Pietruszewski, the New Pulsar Generator*  
 
@@ -240,11 +245,6 @@ Lucile Nihlen has worked as a professional software developer for over 25 years,
 
 ***Copper Ouroboros*** by Mason Moy  
 &emsp;&emsp;*Mason Moy, tuba*  
-
-
-
-***Antithesis (this is the part where I scream)*** by Maxwell Miller  
-&emsp;&emsp;*Maxwell Miller, guitar & voice*  
 
 
 ---
