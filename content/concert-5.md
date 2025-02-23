@@ -6,8 +6,8 @@ title = 'Concert 5'
 +++
 
 Saturday, March 15, 2025  
+**Bloomberg Center Theater**  
 1pm  
-Bloomberg Center Theater
 
 
 ***The Absolute Relativity*** by Alberto de Campo & Bruno Gola  

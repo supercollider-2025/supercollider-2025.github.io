@@ -10,20 +10,20 @@ title = 'Day 2'
 
 ---
 ## Coffee  
+**Location TBA**  
 8:30am - 9am  
-Location TBA
 
 ---
 ## Keynote Address: Lucile Nihlen  
+**Room 820**  
 9am - 10am  
-Room 820
 
 Lucile Nihlen has worked as a professional software developer for over 25 years, working across a broad variety of domains largely in the interactive and digital media spaces. She currently is focused on compilers, toolchains, and programming languages. She is a Senior Staff Software Developer at Google where she is the Technical Lead for Google’s production compiler toolchain. In her spare time she is the author of Hadron, a re-implementation of the SuperCollider interpreter and synthesis server written in Rust and based on LLVM. Lucile lives in Toronto.
 
 ---
 ## Paper Session 3  
+**Room 820**  
 10:20am - 11:40am  
-Room 820  
 [go to abstracts](/paper-session-3/)
 
 **The code as the expression of its own vitalism**  
@@ -46,8 +46,8 @@ Room 820
 ---
 ## Concert 3  
 
+**Bloomberg Center Theater**  
 1pm  
-Bloomberg Center Theater  
 [go to program](/concert-3)
 
 
@@ -90,17 +90,22 @@ Bloomberg Center Theater
 
 *Both workshops are one hour and occur simultaneously.*
 
+## The Absolute Relativity
 
-### The Absolute Relativity
-
-*Led by Alberto de Campo & Bruno Gola*  
-Room 822  
+**Room 822**
 
 
-### Supriya
+Led by:  
+[Alberto de Campo](/bios/#alberto-de-campo)  
+[Bruno Gola](/bios/#bruno-gola)  
 
-*Led by Joséphine Oberholtzer*  
-Room 820  
+
+## Supriya
+
+**Room 820**
+
+
+Led by [Joséphine Oberholtzer](/bios/#joséphine-oberholtzer)
 
 
 ---
@@ -110,17 +115,17 @@ Room 820
 
 &emsp;&emsp;**Only footprints**  
 &emsp;&emsp;&emsp;&emsp;*by Drew Farrar*  
-&emsp;&emsp;&emsp;&emsp;Room 822
+&emsp;&emsp;&emsp;&emsp;**Room 822**
 
 &emsp;&emsp;**Return to Tomorrow**  
 &emsp;&emsp;&emsp;&emsp;*by Michael Webster*  
-&emsp;&emsp;&emsp;&emsp;Room 826
+&emsp;&emsp;&emsp;&emsp;**Room 826**
 
 ---
 ## Concert 4  
 
+**Bloomberg Center Theater**  
 7:30pm  
-Bloomberg Center Theater  
 [go to program](/concert-4)
 
 

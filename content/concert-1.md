@@ -6,8 +6,8 @@ title = 'Concert 1'
 +++
 
 Thursday, March 13, 2025  
+**Bloomberg Center Theater**  
 1pm  
-Bloomberg Center Theater
 
 
 ***_hypercubx A/V*** by Luis Alfonso Tamagnini  

@@ -10,20 +10,20 @@ title = 'Day 1'
 
 ---
 ## Coffee  
+**Location TBA**  
 8:30am - 9am  
-Location TBA
 
 ---
 ## Keynote Address: James McCartney  
+**Room 426/428**  
 9am - 10am  
-Room 426/428
 
 James McCartney studied computer science and electronic music at the University of Texas at Austin. He wrote music for various dance and drama productions in Austin, and later created the SuperCollider programming language for audio synthesis and algorithmic composition. For a few years he worked on the Hubble Space Telescope project on software for observation planning and data analysis. He worked for 16 years at Apple in the CoreAudio group. Now he is retired and pursuing further interests in possibilities for audio synthesis environments.
 
 ---
 ## Paper Session 1  
+**Room 426/428**  
 10:20am - 11:40am  
-Room 426/428  
 [go to abstracts](/paper-session-1/)
 
 **YAWN**  
@@ -46,8 +46,8 @@ Room 426/428
 ---
 ## Concert 1  
 
+**Bloomberg Center Theater**  
 1pm  
-Bloomberg Center Theater  
 [go to program](/concert-1)
 
 
@@ -79,23 +79,33 @@ Bloomberg Center Theater
 
 *Both workshops are one hour and occur simultaneously.*
 
+## SPRAWL 3.0
 
-### SPRAWL 3.0
-
-*Led by Henrik von Coler*  
-Room 430  
+**Room 430**
 
 
-### Live4Life
+Led by:  
+[Henrik von Coler](/bios/#henrik-von-coler)  
+[Orlando Kenny](/bios/#orlando-kenny)  
 
-*Led by Christophe Lengelé*  
-Room 1020  
+
+
+With support from:  
+[Ishaan Jagyasi](/bios/#ishaan-jagyasi)  
+[Henry Windish](/bios/#henry-windish)  
+
+## Live4Life
+
+**Room 1020**
+
+
+Led by [Christophe Lengelé](/bios/#christophe-lengelé)
 
 
 ---
 ## Paper Session 2  
+**Room 426/428**  
 4pm - 5:20pm  
-Room 426/428  
 [go to abstracts](/paper-session-2/)
 
 **SCKinect**  
@@ -118,8 +128,8 @@ Room 426/428
 ---
 ## Concert 2  
 
+**Bloomberg Center Theater**  
 7:30pm  
-Bloomberg Center Theater  
 [go to program](/concert-2)
 
 

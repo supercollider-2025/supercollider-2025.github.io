@@ -111,14 +111,15 @@
           "workshops": [
             {
               "title": "SPRAWL 3.0",
-              "facilitator": "Henrik von Coler",
+              "led_by": ["Henrik von Coler","Orlando Kenny"],
+              "with_support_from": ["Ishaan Jagyasi","Henry Windish"],
               "abstract": "SPRAWL 3.0 is a new incarnation of a network-meta-instrument that has been developed since 2017. It is used for composition and performance of experimental electroacoustic music and in computer-music education. The recent version features 16 Access Points (AP) each consisting of a Raspberry PI 5, 10” touchscreen, audio interface and loudspeaker. All APs are peers in a server-less local area cluster, using JackTrip for a fully connected mesh audio network and an overlay network to ease OSC communication. SuperCollider (SC) serves as the main programming environment for creating configurations and AP software for improvisation and compositions. Audio can be flexibly routed though matrices in SC on each Access Point and GUIs allow musicians to interact with the meta-instrument. The basic idea behind SPRAWL is to explore different system configurations which are inherently connected to musical concepts. Some may use the system with additional musical instruments or microphones connected to each AP, while others work without additional input and create sound within SuperCollider. To make the reconfiguration of this complex system fast and robust, SPRAWL relies on professional admin-tools like Ansible to deploy concepts and configurations with a single command.\n\nIn a hands-on workshop/demo we show the capabilities of SPRAWL with 4-8 APs. Participants will create simple configurations and concepts from scratch by programming SC nodes on the Access Points and connecting the network ‘manually.’ They will also deploy existing concepts with Ansible, showing how advanced tools ease the use of a complex system.\n\nThe workshop is relevant to the following symposium topics: computational creativity, music performance, interactive music systems.",
               "location": "Room 430",
               "tech_needs": "We will bring SPRAWL with all the components. This includes 8 Access Points (can be less or more, depending on venue and demand) with speakers and all cables. We need tables and some help with power supplies and power strips. The room for the workshop should be large enough to create a circle or horseshoe setup with the tables."
             },
             {
               "title": "Live4Life",
-              "facilitator": "Christophe Lengelé",
+              "led_by": ["Christophe Lengelé"],
               "abstract": "The workshop is based on the demonstration of  this spatial performance tool : https://github.com/Xon77/Live4Life. In addition to the \"Live For Life programme\", I will simultaneously present a new programme that I am currently developing, which integrates Tidal Cycles, SuperCollider, and various extensions quark, including SuperDirtMixer. This system features a GUI and controllers that execute command lines in Tidal Cycles and control multiple patterns and their variables (tempo, duration, synthesis, effects, or functions in patterns). It functions as a form of live coding DJing, where lines of code replace traditional samples or records. The interface is still in development, and the code will be released just before the symposium.",
               "location": "Room 1020",
               "tech_needs": "A quadriphonic system at the minimum to show spatialization, and a video-projector"
@@ -374,15 +375,14 @@
           "workshops": [
             {
               "title": "The Absolute Relativity",
-              "facilitator":"Alberto de Campo & Bruno Gola", 
-              "facilitators": ["Alberto de Campo","Bruno Gola"],
+              "led_by": ["Alberto de Campo","Bruno Gola"],
               "abstract": "The Absolute Relativity workshop invites 5-7 symposium participants to prepare a joint experimental performance: In advance of the symposium, we will send an open call to the participants inviting people to sign up and prepare two to three sound processes to be integrated in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.\n\nWe will make a collection with all sound processes shared by the participants, and before the on-site workshop we ask them to practice with this environment individually to get to know each other’s sound worlds. In the on-site workshop sessions all participants bring their own interfaces and setups running the NTMI environment, and we explore the different possibilities of mutual influence. To conclude the experiment, we collectively play with this environment in the conference concert program.",
               "location": "Room 822",
               "tech_needs": "For the workshop we would need:\n\n- chairs+table space for all participants (up to 7 + 2 tutors) with their laptops and MIDI controllers.\n- ideally individual speakers for each participant\n- alternative: mixer with enough stereo inputs (9 stereo in) + stereo monitors\n- a classroom-size HDMI screen or a projector"
             },
             {
               "title": "Supriya",
-              "facilitator": "Joséphine Oberholtzer",
+              "led_by": ["Joséphine Oberholtzer"],
               "abstract": "Supriya is a Python API for SuperCollider - an alternative language client - in active development for the past ten years. This workshop will demonstrate usage of Supriya via an interactive Jupyter notebook, detailing its common “context” interface for realtime and non-realtime synthesis. We’ll examine Supriya’s support for both threaded and “asyncio” event-loop concurrency models, and walk through examples of unit generator graphs, clocks, and a basic pattern library. Throughout the demonstration, design decisions and underlying implementations will be emphasized. Time permitting, topics of unit testing, CI pipelines, and static typing will also be discussed.",
               "location": "Room 820",
               "tech_needs":"Projector with USB-C input, stereo playback, 1/8” stereo input."

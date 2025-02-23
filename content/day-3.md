@@ -13,25 +13,25 @@ title = 'Day 3'
 
 ***Gamang***  
 by [Sarah Lecompte-Bergeron](/bios/#sarah-lecompte-bergeron)  
-Location TBA
+**Location TBA**
 
 
 ---
 ## Coffee  
+**Location TBA**  
 8:30am - 9am  
-Location TBA
 
 ---
 ## Keynote Address: Christof Ressi  
+**Room 426/428**  
 9am - 10am  
-Room 426/428
 
 Christof Ressi is an Austrian composer, arranger, media artist and software developer. He studied composition and music theory, jazz composition and computer music and currently lives in Vienna. His artistic work spans various genres including contemporary classical art music, jazz, experimental electronics, and media art. He produces music, sound design and video for theater and dance productions and arranges music for all kinds of ensembles and instruments, including big band and orchestra.
 
 ---
 ## Paper Session 4  
+**Room 426/428**  
 10:20am - 11:40am  
-Room 426/428  
 [go to abstracts](/paper-session-4/)
 
 **ARCube**  
@@ -54,8 +54,8 @@ Room 426/428
 ---
 ## Concert 5  
 
+**Bloomberg Center Theater**  
 1pm  
-Bloomberg Center Theater  
 [go to program](/concert-5)
 
 
@@ -77,8 +77,8 @@ Bloomberg Center Theater
 
 ---
 ## Paper Session 5  
+**Room 426/428**  
 3pm - 4:20pm  
-Room 426/428  
 [go to abstracts](/paper-session-5/)
 
 **THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)**  
@@ -100,19 +100,19 @@ Room 426/428
 
 ---
 ## Roundtable Discussion: "The Future of SuperCollider"  
+**Room 426/428**  
 4:30pm - 5:30pm  
-Room 426/428
 
 ---
 ## Banquet Dinner  
+**Room 426/428**  
 5:45pm - 7:15pm  
-Room 426/428
 
 ---
 ## Concert 6  
 
+**Bloomberg Center Theater**  
 7:30pm  
-Bloomberg Center Theater  
 [go to program](/concert-6)
 
 

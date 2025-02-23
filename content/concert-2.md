@@ -6,8 +6,8 @@ title = 'Concert 2'
 +++
 
 Thursday, March 13, 2025  
+**Bloomberg Center Theater**  
 7:30pm  
-Bloomberg Center Theater
 
 
 ***Thormulator*** by Thor Madsen  
