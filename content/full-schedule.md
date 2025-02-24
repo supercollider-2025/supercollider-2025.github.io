@@ -16,7 +16,7 @@ title = 'Full Schedule'
 
 ---
 ## Coffee  
-**Location TBA**  
+**Room 426/428**  
 8:30am - 9am  
 
 ---
@@ -180,7 +180,7 @@ Led by [Christophe Lengelé](/bios/#christophe-lengelé)
 
 ---
 ## Coffee  
-**Location TBA**  
+**Room 820**  
 8:30am - 9am  
 
 ---
@@ -327,7 +327,7 @@ by [Sarah Lecompte-Bergeron](/bios/#sarah-lecompte-bergeron)
 
 ---
 ## Coffee  
-**Location TBA**  
+**Room 426/428**  
 8:30am - 9am  
 
 ---

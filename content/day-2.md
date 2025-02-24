@@ -10,7 +10,7 @@ title = 'Day 2'
 
 ---
 ## Coffee  
-**Location TBA**  
+**Room 820**  
 8:30am - 9am  
 
 ---

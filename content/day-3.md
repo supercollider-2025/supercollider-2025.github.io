@@ -18,7 +18,7 @@ by [Sarah Lecompte-Bergeron](/bios/#sarah-lecompte-bergeron)
 
 ---
 ## Coffee  
-**Location TBA**  
+**Room 426/428**  
 8:30am - 9am  
 
 ---
