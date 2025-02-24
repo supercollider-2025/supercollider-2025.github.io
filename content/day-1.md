@@ -149,9 +149,9 @@ Led by [Christophe Lengelé](/bios/#christophe-lengelé)
 
 
 
-***Improvisation*** by Matt Wellins  
+**Improvisation** by Taarof  
 &emsp;&emsp;*Matt Wellins, electronics*  
-&emsp;&emsp;*???*  
+&emsp;&emsp;*Parsa Ferdowsi, electronics*  
 
 
 

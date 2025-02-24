@@ -53,7 +53,7 @@ title = 'Sound Check Schedule'
 
 **3:45pm - 4:15pm**  
 &emsp;&emsp;***Improvisation***  
-&emsp;&emsp;by Matt Wellins  
+&emsp;&emsp;by Matt Wellins and Parsa Ferdowsi  
 
 **4:15pm - 4:45pm**  
 &emsp;&emsp;***Infinite Movement***  
