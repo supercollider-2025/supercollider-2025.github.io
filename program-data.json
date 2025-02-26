@@ -462,20 +462,20 @@
       "events": [
         {
           "title": "Coffee",
-          "location": "Room 426/428",
+          "location": "Room 820",
           "time": "8:30am - 9am",
           "type": "coffee"
         },
         {
           "title": "Keynote Address: Christof Ressi",
-          "location": "Room 426/428",
+          "location": "Room 820",
           "time": "9am - 10am",
           "type": "keynote",
           "speaker": "Christof Ressi"
         },
         {
           "title": "Paper Session 4",
-          "location": "Room 426/428",
+          "location": "Room 820",
           "time": "10:20am - 11:40am",
           "type": "paper",
           "presenters": [
@@ -563,7 +563,7 @@
         },
         {
           "title": "Paper Session 5",
-          "location": "Room 426/428",
+          "location": "Room 820",
           "time": "3pm - 4:20pm",
           "type": "paper",
           "presenters": [
@@ -601,13 +601,13 @@
           "title": "Roundtable Discussion: \"The Future of SuperCollider\"",
           "time": "4:30pm - 5:30pm",
           "type": "other",
-          "location": "Room 426/428"
+          "location": "Room 820"
         },
         {
           "title": "Banquet Dinner",
           "time": "5:45pm - 7:15pm",
           "type": "other",
-          "location": "Room 426/428"
+          "location": "Room 822"
         },
         {
           "title": "Concert 6",

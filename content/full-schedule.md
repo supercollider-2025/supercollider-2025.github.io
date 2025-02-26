@@ -327,19 +327,19 @@ by [Sarah Lecompte-Bergeron](/bios/#sarah-lecompte-bergeron)
 
 ---
 ## Coffee  
-**Room 426/428**  
+**Room 820**  
 8:30am - 9am  
 
 ---
 ## Keynote Address: Christof Ressi  
-**Room 426/428**  
+**Room 820**  
 9am - 10am  
 
 Christof Ressi is an Austrian composer, arranger, media artist and software developer. He studied composition and music theory, jazz composition and computer music and currently lives in Vienna. His artistic work spans various genres including contemporary classical art music, jazz, experimental electronics, and media art. He produces music, sound design and video for theater and dance productions and arranges music for all kinds of ensembles and instruments, including big band and orchestra.
 
 ---
 ## Paper Session 4  
-**Room 426/428**  
+**Room 820**  
 10:20am - 11:40am  
 [go to abstracts](/paper-session-4/)
 
@@ -386,7 +386,7 @@ Christof Ressi is an Austrian composer, arranger, media artist and software deve
 
 ---
 ## Paper Session 5  
-**Room 426/428**  
+**Room 820**  
 3pm - 4:20pm  
 [go to abstracts](/paper-session-5/)
 
@@ -409,12 +409,12 @@ Christof Ressi is an Austrian composer, arranger, media artist and software deve
 
 ---
 ## Roundtable Discussion: "The Future of SuperCollider"  
-**Room 426/428**  
+**Room 820**  
 4:30pm - 5:30pm  
 
 ---
 ## Banquet Dinner  
-**Room 426/428**  
+**Room 822**  
 5:45pm - 7:15pm  
 
 ---
