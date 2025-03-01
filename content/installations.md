@@ -40,7 +40,7 @@ In order to organize the music around speech-like rhythms, I built a kind of DAW
 **by [Sarah Lecompte-Bergeron](/bios/#sarah-lecompte-bergeron)**
 
 **Saturday, March 15, 2025**  
-**Location TBA**
+**Room 826**
 
 _Gamang_ is an interactive installation inspired by the feeling of being separated from friends and loved ones. « Gamang » is a type of ghost in Balinese folklore that can be encountered at night in isolated spaces.
 

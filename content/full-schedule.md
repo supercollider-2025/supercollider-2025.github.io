@@ -322,7 +322,7 @@ Led by [Joséphine Oberholtzer](/bios/#joséphine-oberholtzer)
 
 ***Gamang***  
 by [Sarah Lecompte-Bergeron](/bios/#sarah-lecompte-bergeron)  
-**Location TBA**
+**Room 826**
 
 
 ---

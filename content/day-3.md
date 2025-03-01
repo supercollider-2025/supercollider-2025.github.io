@@ -13,7 +13,7 @@ title = 'Day 3'
 
 ***Gamang***  
 by [Sarah Lecompte-Bergeron](/bios/#sarah-lecompte-bergeron)  
-**Location TBA**
+**Room 826**
 
 
 ---
