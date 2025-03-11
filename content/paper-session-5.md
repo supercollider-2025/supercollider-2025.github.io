@@ -14,6 +14,8 @@ Saturday, March 15, 2025
 [Afonso Fellipe Romagna](/bios/#afonso-fellipe-romagna)  
 3pm
 
+[go to paper](/papers/Romagna.pdf)
+
 *Keywords: SuperCollider, MediaPipe, openFrameworks, Creative processes, Interactive Systems*
 
 This work presents the creative and compositional processes in the piece Guerreira das Pedras (2024) for saxophone, dance, video, and real-time electronics. In this paper, we prioritize an emphasis on the conceptual aspect, where we discuss the main artistic intentions and how the poetics of the piece influenced the choice of tools in the creative workflow involving interactive and multimodal systems. The text presents the artistic motivations, a description of processes and interconnections, a description of the computational model, as well as reflections on the relationship between aesthetic intentions and technological choices. Part of the methodology presented is inspired by the proposal of composer and researcher Marije Baalman, where some visual symbols were also used to exemplify the workflows and procedures carried out.
@@ -31,6 +33,8 @@ Block SuperCollider is an experimental visual programming language specialised f
 
 [Victor Zheng](/bios/#victor-zheng)  
 3:40pm
+
+[go to paper](/papers/Zheng.pdf)
 
 I propose to introduce ChessSynth, a framework built in SuperCollider for procedurally generating a soundtrack in real time to chess games. I will describe my methodology and algorithm design and then present some demonstrations of sample generations of chess games. This work touches upon algorithmic composition, data sonification, and potentially asks the question of using a non-musical entity such as chess as a factor in live performance of music.
 

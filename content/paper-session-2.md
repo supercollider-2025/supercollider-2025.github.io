@@ -14,6 +14,8 @@ Thursday, March 13, 2025
 [Evan Murray](/bios/#evan-murray)  
 4pm
 
+[go to paper](/papers/Murray.pdf)
+
 SCKinect is a SuperCollider plugin which allows users to interact with the Kinect v2 sensor in the server and language. Its core implementation contains a UGen called “Kinect,” designed to output human skeleton joint-tracking data to control buses. It will also include primitives designed to facilitate user interaction with Kinect devices. One example would be for users to be able to post all the available Kinect devices to the post window in SuperCollider, similar to how other human input devices work.
 
 The shared benefit of the Kinect and SuperCollider is their ability to facilitate natural user interactions and artistic expression. The interpreted nature of SuperCollider and the server-language duality allows users to more-naturally communicate what they want to do, enabling them to focus on artistic expression. With the addition of the Kinect UGen, performers can interact with SuperCollider directly through their movement in an agent-less manner.

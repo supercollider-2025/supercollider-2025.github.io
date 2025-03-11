@@ -34,12 +34,14 @@
               "remote": true,
               "time": "10:40am",
               "title": "MIRLCa",
+              "paper-link":"Xambó",
               "abstract": "In this presentation, I will introduce the state of affairs of the development of MIRLCa, a self-built tool in SuperCollider. The ongoing SC extension is a user-friendly live coding environment that allows the live coder to query crowdsourced sounds from the Freesound online database using MIR techniques together with interactive machine learning based on the FluCoMa library. This results in a crafted sound-based music style governed by a diverse chorale of sounds that the live coder attempts to tame. The presentation will cover both technical developments and artistic outcomes of using the tool."
             },
             {
               "author": "James Harkins",
               "time": "11am",
               "remote": true,
+              "paper-link":"Harkins",
               "title": "JITModular",
               "abstract": "SuperCollider's Just-In-Time Library (JITLib) supports free experimentation with a wide variety of signal processing strategies, making it a good choice for SynthDef development and for teaching non-programmers. On its own, however, particularly for students, it poses some challenges: a lack of clear best practices for managing signal topology and routing, and the fact that a JITLib code document reflects a work-in-progress and may not unambiguously show the current state of the system. My JITModular project uses JITLib as a monophonic modular synthesizer, building on top of JITLib: 1/ clear, consistent recommendations for signal handling; 2/ a graphical interface to the side of the code window, providing access to parameters and displaying the current state; 3/ unified controls; 4/ a patch-saving mechanism that preserves code, state and resources (e.g. buffers and MIDI controllers). This workshop will introduce these features and demonstrate their pedagogical value. (Topics: live coding, extensions of sclang)"
             },
@@ -136,6 +138,7 @@
               "author": "Evan Murray",
               "time": "4pm",
               "remote": false,
+              "paper-link":"Murray",
               "title": "SCKinect",
               "abstract": "SCKinect is a SuperCollider plugin which allows users to interact with the Kinect v2 sensor in the server and language. Its core implementation contains a UGen called “Kinect,” designed to output human skeleton joint-tracking data to control buses. It will also include primitives designed to facilitate user interaction with Kinect devices. One example would be for users to be able to post all the available Kinect devices to the post window in SuperCollider, similar to how other human input devices work.\n\nThe shared benefit of the Kinect and SuperCollider is their ability to facilitate natural user interactions and artistic expression. The interpreted nature of SuperCollider and the server-language duality allows users to more-naturally communicate what they want to do, enabling them to focus on artistic expression. With the addition of the Kinect UGen, performers can interact with SuperCollider directly through their movement in an agent-less manner.\n\nThis project relates to interactive music systems and plugins for scsynth. Additionally, the GPU and CPU are both used here for visual and audio processing respectively. Although the GPU doesn’t directly provide audio, it is somewhat related to heterogeneous computing, as the CPU and GPU are both running the scsynth."
             },
@@ -484,6 +487,7 @@
               "time": "10:20am",
               "title": "ARCube",
               "remote": false,
+              "paper-link":"Shin",
               "abstract": "The study presents a SuperCollider-based spatial audio performance system that leverages an augmented reality (AR) interface, the ARCube. For real-time control and creative manipulation of spatialized sound, the system demonstrates how SuperCollider’s flexibility in handling complex synthesis and spatialization algorithms, combined with OSC (Open Sound Control) data from an AR interface, can be effectively harnessed for interactive and expressive live music performances.\n\nThe SuperCollider system is structured to receive high-frequency OSC messages (100 Hz) from the ARCube, which transmits 3D positional data (azimuth, elevation, distance) to dynamically control sound sources and spatial effects. Key scripts developed in SuperCollider include definitions for multi-channel spatial encoders and SynthDefs designed for various sound processes, such as pitch shifting, delay feedback, and spectral filtering. A central HOA (Higher Order Ambisonics) encoder processes the spatial positioning data from OSC messages, allowing the system to route audio sources through a 3D spatial field. SuperCollider groups and audio buses manage these HOA-encoded channels, enabling interactive manipulation of sound positions and effects through the user’s gestures with the ARCube.\n\nThe ARCube’s OSC data is parsed by SuperCollider and assigned to control buses. These control buses then map the received parameters to specific SynthDefs, such as grain effects and filters, enabling nuanced audio transformations directly influenced by the ARCube’s real-time positional updates. Gesture-based controls, such as Grab and Pinch, are mapped to functions like sound rotation, source movement, and synthesis parameter modulation, creating a tightly coupled feedback loop between performer gestures and sound transformations, fostering an intuitive interface for spatial audio control.\n\nTo validate the system’s efficacy, a creative performance was designed with trained performers. Through this performance, performers showcased extensive creative interaction and auditory perception using the AR interface. This highlights SuperCollider’s potential, with its flexible OSC integration and real-time DSP (Digital Signal Processing) capabilities, to significantly enhance creative expression in spatial audio performance. This work underscores SuperCollider’s suitability for complex spatialization and interaction scenarios, demonstrating a framework for AR-enabled spatial audio systems in live, immersive music performances."
             },
             {
@@ -559,6 +563,7 @@
               "author": "Afonso Fellipe Romagna",
               "time": "3pm",
               "remote": true,
+              "paper-link":"Romagna",
               "title": "THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)",
               "abstract": "*Keywords: SuperCollider, MediaPipe, openFrameworks, Creative processes, Interactive Systems*\n\nThis work presents the creative and compositional processes in the piece Guerreira das Pedras (2024) for saxophone, dance, video, and real-time electronics. In this paper, we prioritize an emphasis on the conceptual aspect, where we discuss the main artistic intentions and how the poetics of the piece influenced the choice of tools in the creative workflow involving interactive and multimodal systems. The text presents the artistic motivations, a description of processes and interconnections, a description of the computational model, as well as reflections on the relationship between aesthetic intentions and technological choices. Part of the methodology presented is inspired by the proposal of composer and researcher Marije Baalman, where some visual symbols were also used to exemplify the workflows and procedures carried out."
             },
@@ -573,6 +578,7 @@
               "author": "Victor Zheng",
               "time": "3:40pm",
               "remote": false,
+              "paper-link":"Zheng",
               "title": "ChessSynth",
               "abstract": "I propose to introduce ChessSynth, a framework built in SuperCollider for procedurally generating a soundtrack in real time to chess games. I will describe my methodology and algorithm design and then present some demonstrations of sample generations of chess games. This work touches upon algorithmic composition, data sonification, and potentially asks the question of using a non-musical entity such as chess as a factor in live performance of music."
             },

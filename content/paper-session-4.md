@@ -14,6 +14,8 @@ Saturday, March 15, 2025
 [Hyunkyung Shin](/bios/#hyunkyung-shin)  
 10:20am
 
+[go to paper](/papers/Shin.pdf)
+
 The study presents a SuperCollider-based spatial audio performance system that leverages an augmented reality (AR) interface, the ARCube. For real-time control and creative manipulation of spatialized sound, the system demonstrates how SuperCollider’s flexibility in handling complex synthesis and spatialization algorithms, combined with OSC (Open Sound Control) data from an AR interface, can be effectively harnessed for interactive and expressive live music performances.
 
 The SuperCollider system is structured to receive high-frequency OSC messages (100 Hz) from the ARCube, which transmits 3D positional data (azimuth, elevation, distance) to dynamically control sound sources and spatial effects. Key scripts developed in SuperCollider include definitions for multi-channel spatial encoders and SynthDefs designed for various sound processes, such as pitch shifting, delay feedback, and spectral filtering. A central HOA (Higher Order Ambisonics) encoder processes the spatial positioning data from OSC messages, allowing the system to route audio sources through a 3D spatial field. SuperCollider groups and audio buses manage these HOA-encoded channels, enabling interactive manipulation of sound positions and effects through the user’s gestures with the ARCube.

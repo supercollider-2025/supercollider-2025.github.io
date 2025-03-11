@@ -25,12 +25,16 @@ In this talk I will present an overview of the SuperCollider classes I've been d
 [Anna Xambó](/bios/#anna-xambó)  
 10:40am
 
+[go to paper](/papers/Xambó.pdf)
+
 In this presentation, I will introduce the state of affairs of the development of MIRLCa, a self-built tool in SuperCollider. The ongoing SC extension is a user-friendly live coding environment that allows the live coder to query crowdsourced sounds from the Freesound online database using MIR techniques together with interactive machine learning based on the FluCoMa library. This results in a crafted sound-based music style governed by a diverse chorale of sounds that the live coder attempts to tame. The presentation will cover both technical developments and artistic outcomes of using the tool.
 
 ## JITModular
 
 [James Harkins](/bios/#james-harkins)  
 11am
+
+[go to paper](/papers/Harkins.pdf)
 
 SuperCollider's Just-In-Time Library (JITLib) supports free experimentation with a wide variety of signal processing strategies, making it a good choice for SynthDef development and for teaching non-programmers. On its own, however, particularly for students, it poses some challenges: a lack of clear best practices for managing signal topology and routing, and the fact that a JITLib code document reflects a work-in-progress and may not unambiguously show the current state of the system. My JITModular project uses JITLib as a monophonic modular synthesizer, building on top of JITLib: 1/ clear, consistent recommendations for signal handling; 2/ a graphical interface to the side of the code window, providing access to parameters and displaying the current state; 3/ unified controls; 4/ a patch-saving mechanism that preserves code, state and resources (e.g. buffers and MIDI controllers). This workshop will introduce these features and demonstrate their pedagogical value. (Topics: live coding, extensions of sclang)
 
