@@ -370,8 +370,8 @@
             {
               "title": "The Absolute Relativity",
               "led_by": ["Alberto de Campo","Bruno Gola"],
-              "abstract": "The Absolute Relativity workshop invites 5-7 symposium participants to prepare a joint experimental performance: In advance of the symposium, we will send an open call to the participants inviting people to sign up and prepare two to three sound processes to be integrated in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.\n\nWe will make a collection with all sound processes shared by the participants, and before the on-site workshop we ask them to practice with this environment individually to get to know each other’s sound worlds. In the on-site workshop sessions all participants bring their own interfaces and setups running the NTMI environment, and we explore the different possibilities of mutual influence. To conclude the experiment, we collectively play with this environment in the conference concert program.",
-              "location": "Room 822",
+              "abstract": "Due to late travel alterations, this workshop will take place online. See more information [here](https://scsynth.org/t/absolute-relativity-workshop-at-supercollider-symposium-invitation/11380).\n\nThe Absolute Relativity workshop invites 5-7 symposium participants to prepare a joint experimental performance: In advance of the symposium, we will send an open call to the participants inviting people to sign up and prepare two to three sound processes to be integrated in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.\n\nWe will make a collection with all sound processes shared by the participants, and before the workshop we ask them to practice with this environment individually to get to know each other’s sound worlds. In the workshop session all participants bring their own interfaces and setups running the NTMI environment, and we explore the different possibilities of mutual influence.",
+              "location": "Online",
               "tech_needs": "For the workshop we would need:\n\n- chairs+table space for all participants (up to 7 + 2 tutors) with their laptops and MIDI controllers.\n- ideally individual speakers for each participant\n- alternative: mixer with enough stereo inputs (9 stereo in) + stereo monitors\n- a classroom-size HDMI screen or a projector"
             },
             {
@@ -515,18 +515,6 @@
           "time": "1pm",
           "type": "concert",
           "works": [
-            {
-              "title": "The Absolute Relativity",
-              "composer": "Alberto de Campo & Bruno Gola",
-              "duration": 30,
-              "sound_check": "11:15am - 12pm",
-              "performers": [
-                "Workshop Participants"
-              ],
-              "program-note": "The Absolute Relativity performance is the result of a workshop with 5-7 symposium participants. In this performance we explore the different possibilities of mutual influence in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.  In advance of the symposium, we will send an open call to the participants inviting people to sign up for a workshop and prepare two to three sound processes to be integrated into NTMI.\n\nDuring the concert we collectively play with this environment and each other sound worlds. The performance can be between 30 and 60 minutes. Depending on the available time we can show different influence topologies and strategies in the environment.",
-              "rider": "Peabody is providing an 8-channel Focusrite",
-              "tech_needs": "Depending on the venue's sound system possibilities we have different options:\n- the best option is one wide stereo pairs for every participant, for instance by patching everyone into a multi-channel system. This enables the audience loosely identify who is playing what, and have a nice immersive total spatial image of all performers.\n- an alternative is single individual speaker for each player.\n- a less optimal option is a mix down to a half circle of for speakers, for example. in this case we would need a mixer with enough input channels and flexible output routing."
-            },
             {
               "title": "Metacortical Modulations",
               "composer": "Kosmas Giannoutakis",

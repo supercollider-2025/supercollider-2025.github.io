@@ -10,11 +10,6 @@ Saturday, March 15, 2025
 1pm  
 
 
-***The Absolute Relativity*** by Alberto de Campo & Bruno Gola  
-&emsp;&emsp;*Workshop Participants*  
-
-
-
 ***Metacortical Modulations*** by Kosmas Giannoutakis  
 &emsp;&emsp;*Kosmas Giannoutakis, electronics*  
 
@@ -27,14 +22,6 @@ Saturday, March 15, 2025
 ---
 
 ## Program Notes
-
-### *The Absolute Relativity*
-
-by [Alberto de Campo & Bruno Gola](/bios/#alberto-de-campo-&-bruno-gola)
-
-The Absolute Relativity performance is the result of a workshop with 5-7 symposium participants. In this performance we explore the different possibilities of mutual influence in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.  In advance of the symposium, we will send an open call to the participants inviting people to sign up for a workshop and prepare two to three sound processes to be integrated into NTMI.
-
-During the concert we collectively play with this environment and each other sound worlds. The performance can be between 30 and 60 minutes. Depending on the available time we can show different influence topologies and strategies in the environment.
 
 ### *Metacortical Modulations*
 

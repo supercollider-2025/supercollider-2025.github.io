@@ -10,7 +10,7 @@ Friday, March 14, 2025
 
 ## The Absolute Relativity
 
-**Room 822**
+**Online**
 
 
 Led by:  
@@ -20,9 +20,11 @@ Led by:
 
 
 
+Due to late travel alterations, this workshop will take place online. See more information [here](https://scsynth.org/t/absolute-relativity-workshop-at-supercollider-symposium-invitation/11380).
+
 The Absolute Relativity workshop invites 5-7 symposium participants to prepare a joint experimental performance: In advance of the symposium, we will send an open call to the participants inviting people to sign up and prepare two to three sound processes to be integrated in a collective performance environment written in SuperCollider, the NTMI. This environment is designed for exploring complex sound processes by intuitive interaction, and has recently been expanded for finely gradable layers of shared influence between multiple players.
 
-We will make a collection with all sound processes shared by the participants, and before the on-site workshop we ask them to practice with this environment individually to get to know each other’s sound worlds. In the on-site workshop sessions all participants bring their own interfaces and setups running the NTMI environment, and we explore the different possibilities of mutual influence. To conclude the experiment, we collectively play with this environment in the conference concert program.
+We will make a collection with all sound processes shared by the participants, and before the workshop we ask them to practice with this environment individually to get to know each other’s sound worlds. In the workshop session all participants bring their own interfaces and setups running the NTMI environment, and we explore the different possibilities of mutual influence.
 
 ## Supriya
 

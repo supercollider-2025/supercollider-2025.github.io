@@ -87,7 +87,7 @@ Lucile Nihlen has worked as a professional software developer for over 25 years,
 
 ## The Absolute Relativity
 
-**Room 822**
+**Online**
 
 
 Led by:  

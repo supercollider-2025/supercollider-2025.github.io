@@ -151,10 +151,6 @@ title = 'Sound Check Schedule'
 &emsp;&emsp;***Metacortical Modulations***  
 &emsp;&emsp;by Kosmas Giannoutakis  
 
-**11:15am - 12pm**  
-&emsp;&emsp;***The Absolute Relativity***  
-&emsp;&emsp;by Alberto de Campo & Bruno Gola  
-
 
 
 ---

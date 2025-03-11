@@ -257,7 +257,7 @@ Lucile Nihlen has worked as a professional software developer for over 25 years,
 
 ## The Absolute Relativity
 
-**Room 822**
+**Online**
 
 
 Led by:  
@@ -366,11 +366,6 @@ Christof Ressi is an Austrian composer, arranger, media artist and software deve
 **Bloomberg Center Theater**  
 1pm  
 [go to program](/concert-5)
-
-
-
-***The Absolute Relativity*** by Alberto de Campo & Bruno Gola  
-&emsp;&emsp;*Workshop Participants*  
 
 
 

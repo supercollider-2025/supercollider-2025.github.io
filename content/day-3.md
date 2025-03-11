@@ -60,11 +60,6 @@ Christof Ressi is an Austrian composer, arranger, media artist and software deve
 
 
 
-***The Absolute Relativity*** by Alberto de Campo & Bruno Gola  
-&emsp;&emsp;*Workshop Participants*  
-
-
-
 ***Metacortical Modulations*** by Kosmas Giannoutakis  
 &emsp;&emsp;*Kosmas Giannoutakis, electronics*  
 
