@@ -183,17 +183,6 @@
               "tech_needs": "PA system with 2-channel input (L-R). 2 1/4\" jack - XLR cables for connecting my sound card to the stage box. Projection of the GUI of Thormulator on a screen behind me/next to me. HDMI or USB-C connectors to my HUB."
             },
             {
-              "composer": "Gaël Moriceau",
-              "title": "Harmonic Turbulences",
-              "duration": 7,
-              "sound_check": "4:45pm - 5:15pm",
-              "performers": [
-                "Gaël Moriceau, T-Stick"
-              ],
-              "program-note": "This performance, for T-Stick and FM synthesis, offers an immersion into a synthetic soundscape inspired by the calm moments and storms of nature. The sound textures, in constant metamorphosis, evolve from delicate layers to gusty winds, providing a dynamic and immersive auditory experience.",
-              "tech_needs": "Duration: 6-7 minutes.  The author will be performing the piece on stage. The following items will be supplied by the author:\n\n- Laptop (x1)\n- T-Stick (x1)\n- Router (x1)\n- Audio interface with stereo output (1/4\" jacks x2).\n\nThe author asks organizers to provide:\n\n- Table approximately 1 meter by 1 meter (x1)\n- Music stand (x1)\n- Music stand lamp (x1)\n- Extension cord for connecting the laptop (x1)\n- 1/4-inch jack cables (x2) to connect to the mixing console (the setup is stereo).\n- Loudspeakers (x2) connected to the mixing console (or directly to performer’s interface if no console is available)\n- Stage monitors (x2)\n- Moderate lighting during the performance The table with the laptop and interface should be positioned on stage or in close proximity for easy accessibility at the start of the performance.\n\nMore details in: https://drive.google.com/drive/folders/1I1kLqbyBRbKaovK60wRQSQBlNrK8cbpj "
-            },
-            {
               "composer": "Dennis Scheiba",
               "title": "Infinite Movement",
               "duration": 6,
@@ -220,17 +209,6 @@
               ],
               "program-note": "I think this is the third time I have been asked to write a bio for the duo, Taarof: Matt Wellins in New Haven and Parsa Ferdowsi in Philadelphia are engaging in the old tradition of taarof. They are making empty gestures. An empty gesture that is known to be empty and yet is still commonly upheld. It's been awhile since I last saw them perform and I don't know why I accepted the offer to write this text. It is unpaid. It's been really difficult to keep track of them now that they are no longer in the same state. The person who asked me to write this told me there will be text involved this time. Perhaps, after previous failed attempts, P is able to say something. She also told me that M is extremely worried about the recent climate, especially in Washington. I am too. It smells. But she mentioned that he has an updated instruction from a Japanese competition for making pour-over coffee and it might change things. I doubt it. I don't know how she collects this information. It is is difficult to wear red all the time and be surreptitious. The point is that they are being watched exactly as you are are. I'm here. I'm looking at you sitting in your chairs.",
               "tech_needs": "I'd be very happy to use a multichannel PA system, a table, two chairs - otherwise we are more-or-less self-sufficient."
-            },
-            {
-              "composer": "Kyle Shaw",
-              "title": "Rock Music",
-              "sound_check": "3:15pm - 3:45pm",
-              "duration": 9,
-              "performers": [
-                "fixed media"
-              ],
-              "program-note": "*Rock Music* is an 8-channel fixed-media composition. Supercollider provided all of the DSP needs for this piece -- granular synthesis UGens, resonant filter UGens, FFT UGens, wavetable synthesis, on top of writing my own functions to compose the piece's gestures and writing my own reverb SynthDef.",
-              "tech_needs": "I have 8 mono audio files ready to be routed to an 8.1 surround setup."
             },
             {
               "description":"**Improvisation** by de_umbris.idearum",
@@ -519,6 +497,28 @@
           "time": "1pm",
           "type": "concert",
           "works": [
+            {
+              "composer": "Gaël Moriceau",
+              "title": "Harmonic Turbulences",
+              "duration": 7,
+              "sound_check": "11:45am - 12:15pm",
+              "performers": [
+                "Gaël Moriceau, T-Stick"
+              ],
+              "program-note": "This performance, for T-Stick and FM synthesis, offers an immersion into a synthetic soundscape inspired by the calm moments and storms of nature. The sound textures, in constant metamorphosis, evolve from delicate layers to gusty winds, providing a dynamic and immersive auditory experience.",
+              "tech_needs": "Duration: 6-7 minutes.  The author will be performing the piece on stage. The following items will be supplied by the author:\n\n- Laptop (x1)\n- T-Stick (x1)\n- Router (x1)\n- Audio interface with stereo output (1/4\" jacks x2).\n\nThe author asks organizers to provide:\n\n- Table approximately 1 meter by 1 meter (x1)\n- Music stand (x1)\n- Music stand lamp (x1)\n- Extension cord for connecting the laptop (x1)\n- 1/4-inch jack cables (x2) to connect to the mixing console (the setup is stereo).\n- Loudspeakers (x2) connected to the mixing console (or directly to performer’s interface if no console is available)\n- Stage monitors (x2)\n- Moderate lighting during the performance The table with the laptop and interface should be positioned on stage or in close proximity for easy accessibility at the start of the performance.\n\nMore details in: https://drive.google.com/drive/folders/1I1kLqbyBRbKaovK60wRQSQBlNrK8cbpj "
+            },
+            {
+              "composer": "Kyle Shaw",
+              "title": "Rock Music",
+              "sound_check": "11:15am - 11:45am",
+              "duration": 9,
+              "performers": [
+                "fixed media"
+              ],
+              "program-note": "*Rock Music* is an 8-channel fixed-media composition. Supercollider provided all of the DSP needs for this piece -- granular synthesis UGens, resonant filter UGens, FFT UGens, wavetable synthesis, on top of writing my own functions to compose the piece's gestures and writing my own reverb SynthDef.",
+              "tech_needs": "I have 8 mono audio files ready to be routed to an 8.1 surround setup."
+            },
             {
               "title": "Metacortical Modulations",
               "composer": "Kosmas Giannoutakis",

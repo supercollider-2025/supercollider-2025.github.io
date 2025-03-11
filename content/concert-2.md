@@ -15,11 +15,6 @@ Thursday, March 13, 2025
 
 
 
-***Harmonic Turbulences*** by Gaël Moriceau  
-&emsp;&emsp;*Gaël Moriceau, T-Stick*  
-
-
-
 ***Infinite Movement*** by Dennis Scheiba  
 &emsp;&emsp;*fixed media*  
 
@@ -28,11 +23,6 @@ Thursday, March 13, 2025
 **Improvisation** by Taarof  
 &emsp;&emsp;*Matt Wellins, electronics*  
 &emsp;&emsp;*Parsa Ferdowsi, electronics*  
-
-
-
-***Rock Music*** by Kyle Shaw  
-&emsp;&emsp;*fixed media*  
 
 
 
@@ -65,12 +55,6 @@ In using such a system, I wanted to see if it is possible to establish a feedbac
 https://thormulator.com/  
 https://thormadsen.com/
 
-### *Harmonic Turbulences*
-
-by [Gaël Moriceau](/bios/#gaël-moriceau)
-
-This performance, for T-Stick and FM synthesis, offers an immersion into a synthetic soundscape inspired by the calm moments and storms of nature. The sound textures, in constant metamorphosis, evolve from delicate layers to gusty winds, providing a dynamic and immersive auditory experience.
-
 ### *Infinite Movement*
 
 by [Dennis Scheiba](/bios/#dennis-scheiba)
@@ -101,12 +85,6 @@ by:
 
 
 I think this is the third time I have been asked to write a bio for the duo, Taarof: Matt Wellins in New Haven and Parsa Ferdowsi in Philadelphia are engaging in the old tradition of taarof. They are making empty gestures. An empty gesture that is known to be empty and yet is still commonly upheld. It's been awhile since I last saw them perform and I don't know why I accepted the offer to write this text. It is unpaid. It's been really difficult to keep track of them now that they are no longer in the same state. The person who asked me to write this told me there will be text involved this time. Perhaps, after previous failed attempts, P is able to say something. She also told me that M is extremely worried about the recent climate, especially in Washington. I am too. It smells. But she mentioned that he has an updated instruction from a Japanese competition for making pour-over coffee and it might change things. I doubt it. I don't know how she collects this information. It is is difficult to wear red all the time and be surreptitious. The point is that they are being watched exactly as you are are. I'm here. I'm looking at you sitting in your chairs.
-
-### *Rock Music*
-
-by [Kyle Shaw](/bios/#kyle-shaw)
-
-*Rock Music* is an 8-channel fixed-media composition. Supercollider provided all of the DSP needs for this piece -- granular synthesis UGens, resonant filter UGens, FFT UGens, wavetable synthesis, on top of writing my own functions to compose the piece's gestures and writing my own reverb SynthDef.
 
 ### ***Improvisation** by de_umbris.idearum*
 

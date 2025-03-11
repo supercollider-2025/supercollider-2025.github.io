@@ -145,11 +145,6 @@ Led by [Christophe Lengelé](/bios/#christophe-lengelé)
 
 
 
-***Harmonic Turbulences*** by Gaël Moriceau  
-&emsp;&emsp;*Gaël Moriceau, T-Stick*  
-
-
-
 ***Infinite Movement*** by Dennis Scheiba  
 &emsp;&emsp;*fixed media*  
 
@@ -158,11 +153,6 @@ Led by [Christophe Lengelé](/bios/#christophe-lengelé)
 **Improvisation** by Taarof  
 &emsp;&emsp;*Matt Wellins, electronics*  
 &emsp;&emsp;*Parsa Ferdowsi, electronics*  
-
-
-
-***Rock Music*** by Kyle Shaw  
-&emsp;&emsp;*fixed media*  
 
 
 
@@ -366,6 +356,16 @@ Christof Ressi is an Austrian composer, arranger, media artist and software deve
 **Bloomberg Center Theater**  
 1pm  
 [go to program](/concert-5)
+
+
+
+***Harmonic Turbulences*** by Gaël Moriceau  
+&emsp;&emsp;*Gaël Moriceau, T-Stick*  
+
+
+
+***Rock Music*** by Kyle Shaw  
+&emsp;&emsp;*fixed media*  
 
 
 

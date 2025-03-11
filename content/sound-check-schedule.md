@@ -47,10 +47,6 @@ title = 'Sound Check Schedule'
 &emsp;&emsp;**Performers:**  
 &emsp;&emsp;&emsp;&emsp;James Annett  
 
-**3:15pm - 3:45pm**  
-&emsp;&emsp;***Rock Music***  
-&emsp;&emsp;by Kyle Shaw  
-
 **3:45pm - 4:15pm**  
 &emsp;&emsp;***Improvisation***  
 &emsp;&emsp;by Matt Wellins and Parsa Ferdowsi  
@@ -58,10 +54,6 @@ title = 'Sound Check Schedule'
 **4:15pm - 4:45pm**  
 &emsp;&emsp;***Infinite Movement***  
 &emsp;&emsp;by Dennis Scheiba  
-
-**4:45pm - 5:15pm**  
-&emsp;&emsp;***Harmonic Turbulences***  
-&emsp;&emsp;by Gaël Moriceau  
 
 **5:15pm - 5:45pm**  
 &emsp;&emsp;***Thormulator***  
@@ -150,6 +142,14 @@ title = 'Sound Check Schedule'
 **10:45am - 11:15am**  
 &emsp;&emsp;***Metacortical Modulations***  
 &emsp;&emsp;by Kosmas Giannoutakis  
+
+**11:15am - 11:45am**  
+&emsp;&emsp;***Rock Music***  
+&emsp;&emsp;by Kyle Shaw  
+
+**11:45am - 12:15pm**  
+&emsp;&emsp;***Harmonic Turbulences***  
+&emsp;&emsp;by Gaël Moriceau  
 
 
 

@@ -10,6 +10,16 @@ Saturday, March 15, 2025
 1pm  
 
 
+***Harmonic Turbulences*** by Gaël Moriceau  
+&emsp;&emsp;*Gaël Moriceau, T-Stick*  
+
+
+
+***Rock Music*** by Kyle Shaw  
+&emsp;&emsp;*fixed media*  
+
+
+
 ***Metacortical Modulations*** by Kosmas Giannoutakis  
 &emsp;&emsp;*Kosmas Giannoutakis, electronics*  
 
@@ -22,6 +32,18 @@ Saturday, March 15, 2025
 ---
 
 ## Program Notes
+
+### *Harmonic Turbulences*
+
+by [Gaël Moriceau](/bios/#gaël-moriceau)
+
+This performance, for T-Stick and FM synthesis, offers an immersion into a synthetic soundscape inspired by the calm moments and storms of nature. The sound textures, in constant metamorphosis, evolve from delicate layers to gusty winds, providing a dynamic and immersive auditory experience.
+
+### *Rock Music*
+
+by [Kyle Shaw](/bios/#kyle-shaw)
+
+*Rock Music* is an 8-channel fixed-media composition. Supercollider provided all of the DSP needs for this piece -- granular synthesis UGens, resonant filter UGens, FFT UGens, wavetable synthesis, on top of writing my own functions to compose the piece's gestures and writing my own reverb SynthDef.
 
 ### *Metacortical Modulations*
 
