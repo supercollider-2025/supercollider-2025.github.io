@@ -41,17 +41,17 @@ title = 'Sound Check Schedule'
 
 ## Concert 2
 
-**2:45pm - 3:15pm**  
+**3:45pm - 4:15pm**  
 &emsp;&emsp;***Improvisation***  
 &emsp;&emsp;by de_umbris.idearum  
 &emsp;&emsp;**Performers:**  
 &emsp;&emsp;&emsp;&emsp;James Annett  
 
-**3:45pm - 4:15pm**  
+**4:15pm - 4:45pm**  
 &emsp;&emsp;***Improvisation***  
 &emsp;&emsp;by Matt Wellins and Parsa Ferdowsi  
 
-**4:15pm - 4:45pm**  
+**4:45pm - 5:15pm**  
 &emsp;&emsp;***Infinite Movement***  
 &emsp;&emsp;by Dennis Scheiba  
 
