@@ -52,6 +52,14 @@ Tom Hall is a UK-based Australian composer, performer and writer on music with a
 
 Dr. H. James Harkins, Associate Professor in the Modern Music and Theater Academy of Xinghai Conservatory of Music in Guangzhou, China, composes and performs electronic music, writes software for computer music performance, and teaches electronic music production, interactive media and sound design. His recent electronic music activity focuses on an ongoing live-coding improvisation project, /Process Prototype/, most recently heard at the Guangzhou International Outdoor Performance Festival, December 2018 and 2019 and January 2024, in Xinghai Conservatory in June 2019, Enlightening performance space (Guangzhou, May 2024), Synap Lab (Bangkok, July 2024), Jodo Space (Shanghai, July 2024), and Haktang performance space (Guangzhou, August 2024). Dr. Harkins studied composition at Butler University with Michael Schelle, and Duke University with Scott Lindroth, Stephen Jaffe and Sidney Corbett. He has performed and lectured in Washington DC (USA), Birmingham (UK), Guangzhou, Beijing, Shanghai and Nanning (China), Seoul, S. Korea and Tokyo, Japan, and joined the faculty of Xinghai Conservatory in 2010.
 
+## Ishaan Jagyasi
+
+Ishaan Jagyasi is a music producer, sound engineer, and creative technologist hailing from Mumbai, India, currently pursuing his Master of Science degree in Music Technology and Media Applications at the Georgia Institute of Technology. Under his artistic project ‘knordest’, he explores expression through multimedia at the intersection of art, technology, and sound. With his interest in spatial audio, he has researched 3D recording setups for efficient representation and monitoring in commercially streamable multichannel audio formats like Dolby Atmos. Under the guidance of Henrik von Coler, his research focuses on developing methods and devices to add three-dimensional physical inputs along with haptic feedback for spatial audio mixing and performance practices.
+
+## Orlando Kenny
+
+Orlando Kenny is a first years Music Technology Master’s student at Georgia Tech. As a part of the interaction & immersion lab, he develops immersive experiences ranging from network audio enabled bikes to using augmented reality to control sounds. He is aided by supercollider for sound synthesis.
+
 ## Bonnie Lander
 
 Bonnie Lander is a vocalist and violinist specializing in improvisation, experimental music. With a “signature ability to embody a seemingly endless supply of vocal timbres and personalities” she uses the full palette of the voice for extreme sonic and emotional expression.
@@ -219,6 +227,10 @@ Michael Webster (semiquaver on the SC Forum) is a Los Angeles based composer, co
 ## Matt Wellins
 
 I am broadly occupied with the way objects resist control, the snafus of live performance, and how difficult it is to do very simple things. Insomuch as any of this can be heard, I generally work with analog circuitry, field recording, notated music and computer programming. I have released music on What the…? Records and presented work at Anthology Film Archives (with Sarah Halpern) and the Experimental Media and Performing Arts Center in Troy, NY.
+
+## Henry Windish
+
+Henry Windish is a first-year Music Technology Master's student at Georgia Tech. Previously he studied electrical engineering at Washington University in St. Louis. His research explores the intersection of spatial audio, tangible user interfaces, augmented reality, and analog synthesis, aiming to create innovative and immersive sonic experiences. By bridging the physical and digital realms, he develops new ways to interact with sound.
 
 ## Derek Worthington
 
