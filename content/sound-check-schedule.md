@@ -47,10 +47,6 @@ title = 'Sound Check Schedule'
 &emsp;&emsp;**Performers:**  
 &emsp;&emsp;&emsp;&emsp;James Annett  
 
-**4:15pm - 4:45pm**  
-&emsp;&emsp;***Improvisation***  
-&emsp;&emsp;by Matt Wellins and Parsa Ferdowsi  
-
 **4:45pm - 5:15pm**  
 &emsp;&emsp;***Infinite Movement***  
 &emsp;&emsp;by Dennis Scheiba  

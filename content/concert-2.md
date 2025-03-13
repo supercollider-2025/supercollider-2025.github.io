@@ -20,12 +20,6 @@ Thursday, March 13, 2025
 
 
 
-**Improvisation** by Taarof  
-&emsp;&emsp;*Matt Wellins, electronics*  
-&emsp;&emsp;*Parsa Ferdowsi, electronics*  
-
-
-
 **Improvisation** by de_umbris.idearum  
 &emsp;&emsp;*James Annett, electronics*  
 
@@ -76,15 +70,6 @@ The composition does not follow the classic spatialization technique, which sugg
 Instead, all listeners are in the same situation in the same space - from back to front, from top to bottom, from quiet to loud - and thus form an acoustic community.
 
 Infinite Movement won the Sound Cinema 2024 competition in the free category.
-
-### ***Improvisation** by Taarof*
-
-by:  
-[Matt Wellins](/bios/#matt-wellins)  
-[Parsa Ferdowsi](/bios/#parsa-ferdowsi)  
-
-
-I think this is the third time I have been asked to write a bio for the duo, Taarof: Matt Wellins in New Haven and Parsa Ferdowsi in Philadelphia are engaging in the old tradition of taarof. They are making empty gestures. An empty gesture that is known to be empty and yet is still commonly upheld. It's been awhile since I last saw them perform and I don't know why I accepted the offer to write this text. It is unpaid. It's been really difficult to keep track of them now that they are no longer in the same state. The person who asked me to write this told me there will be text involved this time. Perhaps, after previous failed attempts, P is able to say something. She also told me that M is extremely worried about the recent climate, especially in Washington. I am too. It smells. But she mentioned that he has an updated instruction from a Japanese competition for making pour-over coffee and it might change things. I doubt it. I don't know how she collects this information. It is is difficult to wear red all the time and be surreptitious. The point is that they are being watched exactly as you are are. I'm here. I'm looking at you sitting in your chairs.
 
 ### ***Improvisation** by de_umbris.idearum*
 

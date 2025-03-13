@@ -150,12 +150,6 @@ Led by [Christophe Lengelé](/bios/#christophe-lengelé)
 
 
 
-**Improvisation** by Taarof  
-&emsp;&emsp;*Matt Wellins, electronics*  
-&emsp;&emsp;*Parsa Ferdowsi, electronics*  
-
-
-
 **Improvisation** by de_umbris.idearum  
 &emsp;&emsp;*James Annett, electronics*  
 
