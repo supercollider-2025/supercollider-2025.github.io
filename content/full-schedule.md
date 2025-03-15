@@ -353,6 +353,11 @@ Christof Ressi is an Austrian composer, arranger, media artist and software deve
 
 
 
+***Metacortical Modulations*** by Kosmas Giannoutakis  
+&emsp;&emsp;*Kosmas Giannoutakis, electronics*  
+
+
+
 ***Harmonic Turbulences*** by Gaël Moriceau  
 &emsp;&emsp;*Gaël Moriceau, T-Stick*  
 
@@ -360,11 +365,6 @@ Christof Ressi is an Austrian composer, arranger, media artist and software deve
 
 ***Rock Music*** by Kyle Shaw  
 &emsp;&emsp;*fixed media*  
-
-
-
-***Metacortical Modulations*** by Kosmas Giannoutakis  
-&emsp;&emsp;*Kosmas Giannoutakis, electronics*  
 
 
 
