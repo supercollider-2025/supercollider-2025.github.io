@@ -135,10 +135,6 @@ title = 'Sound Check Schedule'
 &emsp;&emsp;&emsp;&emsp;Maxwell Gong  
 &emsp;&emsp;&emsp;&emsp;Alexander Wu  
 
-**10:45am - 11:15am**  
-&emsp;&emsp;***Metacortical Modulations***  
-&emsp;&emsp;by Kosmas Giannoutakis  
-
 **11:15am - 11:45am**  
 &emsp;&emsp;***Rock Music***  
 &emsp;&emsp;by Kyle Shaw  
@@ -146,6 +142,10 @@ title = 'Sound Check Schedule'
 **11:45am - 12:15pm**  
 &emsp;&emsp;***Harmonic Turbulences***  
 &emsp;&emsp;by Gaël Moriceau  
+
+**10:45am - 11:15am**  
+&emsp;&emsp;***Metacortical Modulations***  
+&emsp;&emsp;by Kosmas Giannoutakis  
 
 
 
