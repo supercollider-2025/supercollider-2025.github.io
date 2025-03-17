@@ -9,6 +9,8 @@ title = 'Day 3'
 
 ## Installations:
 
+see all [installations](/installations)
+
 ---
 
 ***Gamang***  

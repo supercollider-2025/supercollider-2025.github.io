@@ -107,6 +107,8 @@ Led by [Joséphine Oberholtzer](/bios/#joséphine-oberholtzer)
 ## Time Allocated for Visiting Installations  
 4pm - 5:30pm  
 
+see all [installations](/installations)
+
 
 &emsp;&emsp;**Only footprints**  
 &emsp;&emsp;&emsp;&emsp;*by Drew Farrar*  
