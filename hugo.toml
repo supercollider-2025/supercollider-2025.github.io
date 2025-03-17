@@ -23,14 +23,22 @@ site_logo = 'img/sc_cube_48x48_25.png'
   weight = 3
   url = '/location/'
 [[menu.main]]
-  name = 'Registration'
+  name = 'Installations'
   weight = 4
-  url = '/registration/'
+  url = '/installations/'
+# [[menu.main]]
+#   name = 'Registration'
+#   weight = 4
+#   url = '/registration/'
+# [[menu.main]]
+#   name = 'Resources'
+#   weight = 5
+#   url = '/resources/'
+# [[menu.main]]
+#   name = 'Streaming'
+#   weight = 6
+#   url = '/streaming/'
 [[menu.main]]
-  name = 'Resources'
-  weight = 5
-  url = '/resources/'
-[[menu.main]]
-  name = 'Streaming'
-  weight = 6
-  url = '/streaming/'
+  name = 'Documentation'
+  weight = 7
+  url = '/documentation/'
