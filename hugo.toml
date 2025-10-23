@@ -42,3 +42,6 @@ site_logo = 'img/sc_cube_48x48_25.png'
   name = 'Documentation'
   weight = 7
   url = '/documentation/'
+
+[markup.goldmark.renderer]
+unsafe= true
