@@ -9,8 +9,6 @@ Thursday, March 13, 2025
 **Bloomberg Center Theater**  
 1pm  
 
-test edit md
-
 ***Antithesis (this is the part where I scream)*** by Maxwell Miller  
 &emsp;&emsp;*Maxwell Miller, guitar & voice*  
 
