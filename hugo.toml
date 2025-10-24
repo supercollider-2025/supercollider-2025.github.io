@@ -2,7 +2,7 @@ baseURL = 'https://supercollider-2025.github.io/'
 languageCode = 'en-us'
 title = 'The Future of SuperCollider'
 theme = 'ananke'
-publishDir = "docs"
+publishDir = "public"
 
 [params]
 site_logo = 'img/sc_cube_48x48_25.png'
