@@ -9,6 +9,8 @@ Thursday, March 13, 2025
 **Room 426/428**  
 4pm - 5:20pm  
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kZeDoWsLnY8?si=XD6Tle0r9iy_SVbF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## SCKinect
 
 [Evan Murray](/bios/#evan-murray)  

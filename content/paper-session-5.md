@@ -9,6 +9,8 @@ Saturday, March 15, 2025
 **Room 820**  
 3pm - 4:20pm  
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dscjkRQ48Cw?si=uG9zv6isw25BVmv2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## THE COMPOSITION OF INTERACTIONS IN ‘GUERREIRA DAS PEDRAS’ (2024)
 
 [Afonso Fellipe Romagna](/bios/#afonso-fellipe-romagna)  
